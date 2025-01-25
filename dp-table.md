@@ -4,8 +4,7 @@
 |Desc|Ingesting and transforming data, Securing and managing an analytics solution, Monitoring and optimizing an analytics solution. |||||||
 |Duration|4 Days|||||||
 |Labs|23|||||||
-|Audience|As a candidate for this exam, you should have subject matter expertise with data loading 
-patterns, data architectures, and orchestration processes. |||||||
+|Audience|As a candidate for this exam, you should have subject matter expertise with data loading patterns, data architectures, and orchestration processes. |||||||
 |Pre-req class|DP-900|||||||
 |Pre-requisites|understanding the concept of Data Ingestion and Transformation|||||||
 |Intersect classes|DP-600|||||||
