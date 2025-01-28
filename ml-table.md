@@ -1,4 +1,4 @@
-| Course | DP-3007 | DP-3014 | DP-605 |
+| Course | DP-3007 | DP-3014 | DP-604 |
 | --- | --- | --- | --- |
 | Title | Train and deploy a machine learning model<br><br>with Azure Machine Learning | Implementing a machine learning solution<br><br>with Azure Databricks | Implement data science and<br><br>machine learning solution for AI<br><br>with Microsoft Fabric |
 | Desc | Focused on Azure Machine Learning.<br><br>Covering training, deployment and management MLflow models. | Focused only on Azure Databricks.<br><br>Covering MLFlow, Auto ML and deep learning models. | ML class focused on the Fabric UI. Focused in leveraging Warehouse and Lakehouse for source of data and MLflow models. |
