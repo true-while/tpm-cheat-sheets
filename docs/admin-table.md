@@ -15,5 +15,5 @@
 ```alignment
 LCCCCCCC
 ```valign
-CTTTTTTT
+MTTTTTTT
 ```
