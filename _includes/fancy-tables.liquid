@@ -65,7 +65,7 @@
                 {% else %}
                   {% assign align = 'left' %}
               {% endcase %}
-              <th colspan="{{ col_span }}" data-nth-cell="{{ cell_index | plus: 1 }}" align="{{ align }}">
+              <th colspan="{{ col_span }}" data-nth-cell="{{ cell_index | plus: 1 }}" align="{{ align }}" valign="{{ valign }}">
                 {{- cleaned | strip | markdownify | split: '<p>' | shift | join: '<p>' | split: '</p>' | pop | join: '</p>' -}}
               </th>
 
@@ -104,6 +104,15 @@
                 {% assign lookbelow_index = lookbelow_index | plus: 1 -%}
               {% endfor -%}
 
+              {% assign valign = valigns[cell_index] | upcase -%}
+              {% case valign %}
+                {% when "T" %}
+                  {% assign valign = 'top' %}
+                {% when "M" %}
+                  {% assign valign = 'middle' %}
+                {% else %}
+                  {% assign valign = 'bottom' %}
+              {% endcase %}
               {% assign alignment = alignments[cell_index] | upcase -%}
               {% case alignment %}
                 {% when "R" %}
@@ -113,7 +122,7 @@
                 {% else %}
                   {% assign align = 'left' %}
               {% endcase %}
-              <td colspan="{{ col_span }}" rowspan="{{ row_span }}" data-nth-cell="{{ cell_index | plus: 1 }}" align="{{ align }}">
+              <td colspan="{{ col_span }}" rowspan="{{ row_span }}" data-nth-cell="{{ cell_index | plus: 1 }}" align="{{ align }}" valign="{{ valign }}">
                 {{- cleaned | strip | markdownify | split: '<p>' | shift | join: '<p>' | split: '</p>' | pop | join: '</p>' -}}
                 {% if contents_to_add.size > 0 %}<br>{{ contents_to_add | join: '<br>' }}{% endif -%}
               </td>
