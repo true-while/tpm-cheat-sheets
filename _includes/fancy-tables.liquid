@@ -51,10 +51,10 @@
               {% case valign %}
                 {% when "T" %}
                   {% assign valign = 'top' %}
-                {% when "M" %}
-                  {% assign valign = 'middle' %}
-                {% else %}
+                {% when "B" %}
                   {% assign valign = 'bottom' %}
+                {% else %}
+                  {% assign valign = 'middle' %}
               {% endcase %}
               {% assign alignment = alignments[cell_index] | upcase -%}
               {% case alignment %}
@@ -108,10 +108,10 @@
               {% case valign %}
                 {% when "T" %}
                   {% assign valign = 'top' %}
-                {% when "M" %}
-                  {% assign valign = 'middle' %}
-                {% else %}
+                {% when "B" %}
                   {% assign valign = 'bottom' %}
+                {% else %}
+                  {% assign valign = 'middle' %}
               {% endcase %}
               {% assign alignment = alignments[cell_index] | upcase -%}
               {% case alignment %}
