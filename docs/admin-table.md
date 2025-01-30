@@ -2,7 +2,7 @@
 | **Course** | _AZ-1002_ | _AZ-1003_ | _AZ-1004_ | _AZ-1006_ | _AZ-1007_ | _AZ-1008_ | _AZ-1010_ |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | **Title** | Configure secure access to your workloads using Azure networking | Secure storage for Azure Files and Azure Blob Storage | Deploy and Configure Azure Monitor | Migrate and Modernize SAP on Microsoft Azure | Deploy and administer Linux virtual machines on Azure | Administer Active Directory Domain Services | Deploy and manage Azure Arc–enabled servers |
-| **Desc** | Deep dive into IaaS network hardening in Azure. Covers Azure Firewall, vNets, Routes, DNS. | Securing Azure Storage (Blobs, Files). Identity, Permissions and Encrypting of content. | Deep dive in the monitoring services like App Insights, Log analytics, KQL and Azure dashboards | Provisioning, Configuration, HA and DR for SAP solutions in Azure. Automation. | Deep dive in administration Linux IaaS workload. Includes performance conf, backup, migration. | Provisioning and configuration AD DS in Azure. Manage objects, group policy, Identities. | Deep dive in architecture related topics of Azure Arc-enabled services. Class is focused on provisioning, configuration and monitoring services with Azure Policies, Cloud Defender, Azure Monitor and others. |
+| **Desc** | Deep dive into IaaS network hardening in Azure. Covers Azure Firewall, vNets, Routes, DNS. | Securing Azure Storage (Blobs, Files). Identity, Permissions and Encrypting of content. | Deep dive in the monitoring services like App Insights, Log analytics, KQL and Azure dashboards | Provisioning, Configuration, HA and DR for SAP solutions in Azure. Automation. | Deep dive in administration Linux IaaS workload. Includes performance conf, backup, migration. | Provisioning and configuration AD DS in Azure. Manage objects, group policy, Identities. | Deep dive in architecture related topics of Azure Arc-enabled services including provisioning, configuration and monitoring them with Azure Policies, Cloud Defender, Azure Monitor and others. |
 | **Duration** | 1-day class | 1-day class | 1-day class | 1-day class | 1-day class | 1-day class | 1-day class |
 | **Labs** | 5 Labs | 4 Labs | 5 Labs | 6 Labs | 4 Labs | 5 Labs | 6 Labs - 230m |
 | **Audience** | IT-Pro | IT-Pro | IT-Pro | Architects, Consultants | Admins | Admins | Architects |
@@ -23,7 +23,7 @@ LLLLLLLL
 LLLLLLLL
 LLLLLLLL
 LLLLLLLL
-LCCCCCCC
+LLLLLLLL
 ```valign
 TTTTTTTT
 MTTTTTTT
