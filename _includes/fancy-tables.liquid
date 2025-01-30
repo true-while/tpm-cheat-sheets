@@ -25,7 +25,9 @@
     %}
     {% assign data = contents.first | split: '```alignment' -%}
     {% assign text = data[0] -%}
-    {% assign alignments = data[1] | replace: newline, '' | replace: ' ', '' | split: '' -%}
+    {% assign data = data[1] | split: '```valign' -%}
+    {% assign alignments = data[0] | replace: newline, '' | replace: ' ', '' | split: '' -%}
+    {% assign valigns = data[1] | replace: newline, '' | replace: ' ', '' | split: '' -%}
     {% capture text %}{% include capturehtml.liquid text=text %}{% endcapture -%}
     {% assign lines = text | strip | split: newline -%}
     {% assign check_first_row = lines.first | replace: ' ', '' | slice: 0, 3 -%}
@@ -45,6 +47,15 @@
               {% assign cleaned = cell | replace: '\', '' -%}
               {% assign col_span = cell.size | minus: cleaned.size | plus: 1 -%}
 
+              {% assign valign = valigns[cell_index] | upcase -%}
+              {% case valign %}
+                {% when "T" %}
+                  {% assign valign = 'top' %}
+                {% when "M" %}
+                  {% assign valign = 'middle' %}
+                {% else %}
+                  {% assign valign = 'bottom' %}
+              {% endcase %}
               {% assign alignment = alignments[cell_index] | upcase -%}
               {% case alignment %}
                 {% when "R" %}
