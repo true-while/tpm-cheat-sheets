@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 **One day** classes compared by technology:
 
 - [AI](./docs/ai-table.md)
