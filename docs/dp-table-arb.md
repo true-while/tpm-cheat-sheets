@@ -6,7 +6,7 @@
 |**Title**|Fabric Data Engineer Associate|Fabric Analytics Engineer Associate|Azure Database Administrator Associate|Azure Data Engineer Associate|
 |**Desc**|Ingesting and transforming data, Securing and managing an analytics solution, Monitoring and optimizing an analytics solution. |Prepare and enrich data for analysis, Secure and maintain analytics assets, Implement and manage semantic models|Plan and implement data platform resources, Implement a secure environment, Monitor, configure, and optimize database resources, Configure and manage automation of tasks, Plan and configure a high availability and disaster recovery (HA/DR) environment|Design and implement data storage, Develop data processing, Secure, monitor, and optimize data storage and data processing|
 |**Duration**|4 Days|4 Days|4 Days|4 Days|
-|**Labs**|23||17|29|
+|**Labs**|23|19|17|29|
 |**Audience**|database developer & administrator, data engineer & analyst|database developer & administrator, data engineer & analyst|database developer & administrator, data engineer & analyst|database developer & administrator, data engineer & analyst|
 |**Pre-req class**|DP-900|PL-900, DP-900|DP-900|DP-900|
 |**Pre-requisites**|understanding the concept of Data Ingestion and Transformation|understanding the concept of designing, creating, and managing analytical assets, such as semantic models, data warehouses, or lakehouses.|understanding the concept of database Management, Availability, Security, Performance monitoring and optimization|understanding the concept of Modern data warehouse (MDW), Big data, Lakehouse architecture|
