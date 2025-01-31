@@ -1,18 +1,6 @@
-<head>
-    <title>Your Desired Title</title>
-    <style>
-        .center-title {
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <h1 class="center-title">**Advanced Role-Based (ARB) courses**</h1>
-  <br>
-  <p>These four (4) days of Advanced Role-Based (ARB) courses focus on Data Engineering, Data Analysis, and Database Administration.</p>
-    <!-- Your other content -->
-</body>
-
+# <div align="center">**Advanced Role-Based (ARB) courses**</div>
+##### These four (4) days of Advanced Role-Based (ARB) courses focus on Data Engineering, Data Analysis, and Database Administration.
+#
 ```table
 |**Course**|DP-700|DP-600|DP-300|DP-203|
 |** --- **| --- | --- | --- | --- |
