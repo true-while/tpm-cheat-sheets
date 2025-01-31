@@ -8,6 +8,7 @@
 | **Audience** | | Business user of M365 | Architects, Any IT Pro | IT Admins, Security Admins, MS 365 Admins | Architects, Any IT Pro | Executive | Any IT Pro. No Dev skills required | Developers | Executive |
 |**Pre-req class** |  |   |     | MS-900 | [Learn Mod](https://learn.microsoft.com/training/paths/get-started-with-microsoft-365-copilot/) |     |     | MS-4007, MS-4009 |     |
 | **Pre-req knowledge** |   |  | MS office apps. | PowerShell, Microsoft 365 services |     | MS office Apps | BYOS, Co-Pilot studio | Azure, C#, Bicep, VS-Code | MS office apps |
+| **Intersect classes** | MS-4006, MS-102, MS-4017 |  |  |  |  |  |  |  |  |  |
 | **v-Next** | |  ESI 1-day discontinued |     | will be replaced with MS-4017 |     |     |     | Updates coming in November |     |
 | **Agenda** | [7 Modules](https://learn.microsoft.com/en-us/training/paths/prepare-security-compliance-support-microsoft-365-copilot/) | [M1](https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/). [M2](https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/) | [M1](https://learn.microsoft.com/training/paths/get-started-with-microsoft-365-copilot/), [M2](https://learn.microsoft.com/training/paths/craft-effective-prompts-copilot-microsoft-365/) | [M1](https://learn.microsoft.com/en-us/training/paths/prepare-your-organization-microsoft-365-copilot/), [M2](https://learn.microsoft.com/en-us/training/paths/manage-data-security-copilot-microsoft-365/), [M3](https://learn.microsoft.com/en-us/training/paths/manage-data-compliance-copilot-microsoft-365/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/explore-how-drive-adoption-microsoft-copilot-m365/) | [3 Modules](https://learn.microsoft.com/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-copilot-microsoft-365-copilot-studio/) | [M1](https://learn.microsoft.com/en-us/training/modules/microsoft-copilot-extensibility-fundamentals/), [M2](https://learn.microsoft.com/en-us/training/modules/choose-copilot-extensibility-development-path/), [M3](https://learn.microsoft.com/en-us/training/modules/guided-project-build-message-extension-plugin-typescript-microsoft-copilot/?branch=new-guided-project-build-message-extension-plugin-typescript-microsoft-copilot) | [4 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-web-based-interactive-experience-executives/) |
 | **Applied Skills** |  |  |  | |   |   |  |   |   |
@@ -25,7 +26,6 @@ LLLLLLLLLL
 LLLLLLLLLL
 ```valign
 TTTTTTTTTT
-MTTTTTTTTT
 MTTTTTTTTT
 MTTTTTTTTT
 MTTTTTTTTT
