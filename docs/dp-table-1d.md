@@ -1,5 +1,5 @@
 # **Applied Skills courses**
-##### These one (1) day Applied Skills courses focus on Data Engineering, Data Analysis, and Database Administration.
+##### These one (1) day Applied Skills courses focus on Data Engineering, Data Analysis, and Event-driven with KQL.
 ```table
 |**Course**|DP-601|DP-602|DP-603|DP-605|
 |** --- **| --- | --- | --- | --- |
