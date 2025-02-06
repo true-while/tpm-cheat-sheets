@@ -10,7 +10,7 @@
 | **Pre-req knowledge** | PowerShell, Microsoft 365 services  |  | MS office apps. | | MS office Apps | BYOS, Co-Pilot studio | Azure, C#, Bicep, VS-Code | MS office apps | PowerShell, Microsoft 365 services | |
 | **Intersect classes** | MS-4006, MS-102, MS-4017 |  |  |  |  |  |  |   | MS-4006 | 
 | **Agenda** | [7 Modules](https://learn.microsoft.com/en-us/training/paths/prepare-security-compliance-support-microsoft-365-copilot/) | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4004) | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4005) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/explore-how-drive-adoption-microsoft-copilot-m365/) | [3 Modules](https://learn.microsoft.com/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-copilot-microsoft-365-copilot-studio/) | [3 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4010) | [4 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-web-based-interactive-experience-executives/) | [3 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4017) |
-| **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/) | No | No  | No | No  | No  | No  | No  |
+| **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/) | No | No  | No | No  | No  | No  | No  | No |
 | **Comments** | |  ESI 1-day discontinued |   |     |     |     | Updates coming in November |     | Replace  MS-4006 |
 ```alignment
 LCCCCCCCCCC
