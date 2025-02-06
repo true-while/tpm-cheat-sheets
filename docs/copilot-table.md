@@ -1,8 +1,7 @@
 ```table
-| **Course** | _MS-4002_ | _MS-4004_ | _MS-4005_ | _MS-4007_ | _MS-4008_ | _MS-4009_ | _MS-4010_ | _MS-4012_ | _MS-4017_ | _MS-4021_ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Title** | Prepare security and compliance to support Microsoft 365 Copilot | Empower your workforce with Copilot for M365 Use Cases | Craft effective prompts for Microsoft Copilot for Microsoft 365 | Discover how to drive enablement of Copilot for M365 | Microsoft Copilot for Microsoft 365: Executive Immersion Experience | Extend Microsoft Copilot for Microsoft 365  <br>with Copilot Studio | Build plugins and connectors for Microsoft Copilot for Microsoft 365. | Microsoft Copilot Web Based Interactive Experience for Executives | Manage and extend Microsoft 365 Copilot 
-Trainer Preparation Guide | |
+| **Course** | _MS-4002_ | _MS-4004_ | _MS-4005_ | _MS-4007_ | _MS-4008_ | _MS-4009_ | _MS-4010_ | _MS-4012_ | _MS-4017_ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Title** | Prepare security and compliance to support Microsoft 365 Copilot | Empower your workforce with Copilot for M365 Use Cases | Craft effective prompts for Microsoft Copilot for Microsoft 365 | Discover how to drive enablement of Copilot for M365 | Microsoft Copilot for Microsoft 365: Executive Immersion Experience | Extend Microsoft Copilot for Microsoft 365  <br>with Copilot Studio | Build plugins and connectors for Microsoft Copilot for Microsoft 365. | Microsoft Copilot Web Based Interactive Experience for Executives | Manage and extend Microsoft 365 Copilot| |
 | **Desc** | Class introduces essential skills needed to effectively manage user assets and prevent data loss with Microsoft 365 Copilot.  | General Into and Group of use cases for different industry | Improve effective use of co-pilot in MS office aps. Demos and deep dive in integration | Adopt co-pilot for your organization. Plan, enable, support. Scenario based | Use co-pilot in Word, PowerPoint, Excel, Teams, and Outlook, incorporate own data. | Deep dive in co-pilot studio with building own actions to extend M365 co-pilot. | Deep dive in extending co-pilot functionality | High level demonstration of co-pilot integration with office apps on the web | Class is designed for Microsoft 365 administrators to help them prepare for license management, security, and extensibility of Microsoft 365 Copilot. | |
 | **Duration** | 1 day | 1 day or x4 by 1 hour | 1 day | 1 day | 1 hour | 1 day | 1 day | 3 hour | | |
 | **Labs** | [4 Labs](https://github.com/MicrosoftLearning/MS-4002-Prepare-security-and-compliance-to-support-Microsoft-365-Copilot) | Use cases | 4 Labs | No Labs | No Labs | 3 Labs | 1 Lab | No Labs | | |
@@ -14,25 +13,25 @@ Trainer Preparation Guide | |
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/) | No | No  | No | No  | No  | No  | No  | | |
 | **Comments** | |  ESI 1-day discontinued |   |     |     |     | Updates coming in November |     | Replace  MS-4006 | |
 ```alignment
-LCCCCCCCCCCC
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
+LCCCCCCCCCC
+LLLLLLLLLLL
+LLLLLLLLLLL
+LLLLLLLLLLL
+LLLLLLLLLLL
+LLLLLLLLLLL
+LLLLLLLLLLL
+LLLLLLLLLLL
+LLLLLLLLLLL
+LLLLLLLLLLL
 ```valign
-TTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
+TTTTTTTTTTT
+MTTTTTTTTTT
+MTTTTTTTTTT
+MTTTTTTTTTT
+MTTTTTTTTTT
+MTTTTTTTTTT
+MTTTTTTTTTT
+MTTTTTTTTTT
+MTTTTTTTTTT
+MTTTTTTTTTT
 ```
