@@ -1,4 +1,4 @@
-
+```table
 | **Course** | _SC-5001_ | _SC-5002_ | _SC-5003_ | _SC-5004_ | _SC-5006_ | _SC-5007_ | _SC-5008_ |  
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | **Title** | Configure SIEM Security  Operations Using Microsoft Sentinel | Secure Azure services and workloads with Microsoft Defender | Implement Information Protection  and Data Loss Prevention by using Microsoft  Purview | Defend against cyberthreats with  Microsoft Defender XDR |   
@@ -11,3 +11,28 @@
 | **Intersect classes** | AZ-500, SC-200 | AZ-500 | SC-400, DP-203 | SC-200 |  |  |  |  
 | **Agenda** | [6 Modules](https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/) | [8 Modules](https://learn.microsoft.com/en-us/training/paths/secure-azure-services-workloads-defender-cloud/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/purview-implement-information-protection-data-loss-prevention/) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/sc-5004-defend-against-cyberthreats-defender/) |  |  |  |  
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-information-protection-and-data-loss-prevention-by-using-microsoft-purview/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/) |  |  |  |
+```alignment
+LCCCCCCC
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+```valign
+TTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+```
