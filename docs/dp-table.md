@@ -1,4 +1,3 @@
-# **Applied Skills courses**
 ##### These one (1) day Applied Skills courses focus on Data Engineering, Data Analysis, and Event-driven with KQL.
 ```table
 |**Course**|DP-601|DP-602|DP-603|DP-605|DP-3001|DP-3011|DP-3012|DP-3020|DP-3021|
@@ -14,4 +13,30 @@
 |**MS Learn**|[All Modules](https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/)|[All Modules](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/)|[All Modules](https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/)|[All Modules](https://learn.microsoft.com/en-us/training/paths/develop-dynamic-reports-microsoft-power-bi/)|[All Modules](https://learn.microsoft.com/en-us/training/paths/migrate-sql-workloads-azure/)|[All Modules](https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/)|[All Modules](https://learn.microsoft.com/en-us/training/courses/dp-3012#course-syllabus)|[All Modules](https://learn.microsoft.com/en-us/training/paths/develop-data-driven-app-sql-db/)|[All Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/)|
 |**Assessment**|[Link](https://learn.microsoft.com/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)|[Link](https://learn.microsoft.com/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/)|[Link](https://learn.microsoft.com/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/)|N/A|[Link](https://learn.microsoft.com/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/)|[Link](https://microsoftlearning.github.io/mslearn-databricks/)|N/A|[Link](https://learn.microsoft.com/credentials/applied-skills/develop-data-driven-applications-by-using-microsoft-azure-sql-database/)|N/A|
 |**Comment**||||||||||
+```alignment
+LCCCCCCCC
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+LLLLLLLLL
+```valign
+TTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
+MTTTTTTTT
 ```
