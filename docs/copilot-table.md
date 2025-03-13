@@ -1,4 +1,4 @@
-[retired](../docs/copilot-table-r.md) | [active](../docs/copilot-table.md)
+[retired](../docs/copilot-table-r.md) [active](../docs/copilot-table.md)
 
 ```table
 | **Course** | _MS-4002_ | _MS-4004_ | _MS-4005_ | _MS-4007_ | _MS-4008_ | _MS-4010_ | _MS-4012_ | _MS-4017_ | _MS-4018_ | _MS-4019_ | _MS-4021_ |

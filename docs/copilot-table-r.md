@@ -1,4 +1,4 @@
-[retired](../docs/copilot-table-r.md) | [active](../docs/copilot-table.md)
+[retired](../docs/copilot-table-r.md) [active](../docs/copilot-table.md)
 
 ```table
 | **Course** | _MS-4004_ | _MS-4005_ | _MS-4009_ | 
@@ -14,28 +14,29 @@
 | **Agenda** | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4004) | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4005) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-copilot-microsoft-365-copilot-studio/) |
 | **Applied Skills** | No | No  | No | 
 | **Comments** | ESI 1-day discontinued |   |     |    
+
 ```alignment
-LCCCCCCCCCCCCC
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
+LCCC
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
 ```valign
-TTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
+TTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
 ```
