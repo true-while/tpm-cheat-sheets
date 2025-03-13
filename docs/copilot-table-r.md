@@ -1,4 +1,4 @@
-[retired](../docs/copilot-table-r.md) and [active](../docs/copilot-table.md) classes
+[`retired`](../docs/copilot-table-r.md) and [`active`](../docs/copilot-table.md) classes
 
 ```table
 | **Course** | _MS-4004_ | _MS-4005_ | _MS-4009_ | 
