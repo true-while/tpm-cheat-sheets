@@ -1,4 +1,4 @@
-[retired](../docs/copilot-table-r.md) [active](../docs/copilot-table.md)
+[retired](../docs/copilot-table-r.md) and [active](../docs/copilot-table.md) classes
 
 ```table
 | **Course** | _MS-4002_ | _MS-4004_ | _MS-4005_ | _MS-4007_ | _MS-4008_ | _MS-4010_ | _MS-4012_ | _MS-4017_ | _MS-4018_ | _MS-4019_ | _MS-4021_ |
@@ -15,27 +15,27 @@
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/) | No | No  | No | No  | No  | No  | No  | | | No |
 | **Comments** | |  ESI 1-day discontinued |   |  |  | Updates coming in November |     | Replace  MS-4006 | | | In-person |
 ```alignment
-LCCCCCCCCCCCCC
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
-LLLLLLLLLLLLLL
+LCCCCCCCCCCC
+LLLLLLLLLLLL
+LLLLLLLLLLLL
+LLLLLLLLLLLL
+LLLLLLLLLLLL
+LLLLLLLLLLLL
+LLLLLLLLLLLL
+LLLLLLLLLLLL
+LLLLLLLLLLLL
+LLLLLLLLLLLL
 ```valign
-TTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
-MTTTTTTTTTTTTT
+TTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
+MTTTTTTTTTTT
 ```
