@@ -3,3 +3,5 @@ description: supporting materials for delivery selection
 theme: jekyll-theme-cayman
 show_downloads: false
 google_analytics:
+show_last_edit_time: true
+last_edit_time_format: "%Y-%m-%d %H:%M"
