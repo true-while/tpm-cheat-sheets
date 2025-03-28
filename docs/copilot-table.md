@@ -9,11 +9,11 @@
 | **Labs** | [4 Labs](https://github.com/MicrosoftLearning/MS-4002-Prepare-security-and-compliance-to-support-Microsoft-365-Copilot) | No Labs | [Interactive Exp](https://learn.microsoft.com/en-us/training/modules/transform-executive-productivity-with-copilot-for-microsoft-365/) | [3 Labs](https://github.com/MicrosoftLearning/MS-4010-Build-Plugins-Connectors-Microsoft-Copilot-M365) | [Optional Interactive Exp](https://learn.microsoft.com/en-us/training/modules/accelerate-creativity-with-microsoft-copilot/) | Experience from Learn | 6 Interactive Exp from Learn | Interactive Exp (2h) | Interactive Exp (20min) |
 | **Audience** | Admins, Security Engines | Business user, Any IT Pro | Executives | Developers | Executives | MS 365 Admins | Business user  | Business user | Executive |
 |**Pre-req class** |   | [Learn Module](https://learn.microsoft.com/training/paths/get-started-with-microsoft-365-copilot/) |     |   MS-4007, MS-4009  |  |  |  |  |  |
-| **Pre-req knowledge** | PowerShell, M365 services  | M365 (BYOS) | M365 (BYOS) | Azure, C#, Bicep, VS-Code, Teams Toolkit  | M365 NO BYOS | PowerShell, M365 services | M365 (BYOS) | M365 & SharePoint | MS365 (BYOS) |
+| **Pre-req knowledge** | PowerShell, M365 services  | M365 (BYOS) | M365 (BYOS) | Azure, C#, Bicep, VS-Code, Teams Toolkit  | M365 (NO BYOS) | PowerShell, M365 services | M365 (BYOS) | M365 & SharePoint | MS365 (BYOS) |
 | **Intersect classes** | MS-4006, MS-102, MS-4017 |  |  |  | Subset of MS-4008 | MS-4006 |  | MS-4005 | MS-4006 |
 | **Agenda** | [7 Modules](https://learn.microsoft.com/en-us/training/paths/prepare-security-compliance-support-microsoft-365-copilot/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/explore-how-drive-adoption-microsoft-copilot-m365/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/) | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4010) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-web-based-interactive-experience-executives/) | [8 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4017) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/draft-analyze-present-microsoft-365-copilot/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/implement-no-code-copilot-agents-microsoft-365-sharepoint/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-web-based-interactive-experience-executives/)
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/) | No | No  | No  | No  | No  | No | No | No |
-| **Comments** | | |  | Updates coming in November |     | Replace  MS-4006 | | | In-person |
+| **Comments** | | |  | Updates coming in November |     | Replace  MS-4006 | License provided with Labs  | | In-person |
 ```alignment
 LCCCCCCCCC
 LLLLLLLLLL
@@ -39,3 +39,5 @@ MTTTTTTTTT
 MTTTTTTTTT
 MTTTTTTTTT
 ```
+
+
