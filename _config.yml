@@ -2,6 +2,10 @@ title: TPM Cheat sheets
 description: supporting materials for delivery selection
 theme: jekyll-theme-cayman
 show_downloads: false
-google_analytics:
-show_last_edit_time: true
-last_edit_time_format: "%Y-%m-%d %H:%M"
+
+plugins:
+  - jekyll-last-modified-at
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%Y-%m-%d %H:%M'
