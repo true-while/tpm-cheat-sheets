@@ -11,4 +11,28 @@
 | **Intersect classes** | AZ-400 | AZ-204 | AZ-204 | AI-102, AI-050 | AZ-400 | no | AZ-400, AZ-104 |
 | **MS Learn** | [All modules](https://learn.microsoft.com/en-us/training/paths/implement-security-through-pipeline-using-devops/) | [All modules](https://learn.microsoft.com/en-us/training/paths/develop-asp-core-api/) | [All modules](https://learn.microsoft.com/en-us/training/paths/deploy-cloud-native-applications-to-azure-container-apps/) | [All modules](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure-open-ai-semantic-kernel-sdk/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/automate-azure-load-testing-github/) | [All modules](https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/) | [All modules](https://learn.microsoft.com/en-us/training/paths/devops-foundations-core-principles-practices/) |
 | **Assessment** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-security-through-pipeline-using-devops/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-an-aspnet-core-web-app-that-consumes-an-api/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-using-microsoft-azure-openai-and-semantic-kernel/) | No | No  | No  |
+```alignment
+LCCCCCCC
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+```valign
+TTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
+MTTTTTTT
 ```
