@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ```table
 | 1-day class | ARB class | % of total Intersect | Intersect % with ARB class module | Intersect technology | Details | Conclusion |
 | --- | --- | --- | --- | --- | --- | --- |

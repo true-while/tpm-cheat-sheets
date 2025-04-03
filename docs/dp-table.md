@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ##### These one (1) day Applied Skills courses focus on Data Engineering, Data Analysis, and Event-driven with KQL.
 ```table
 |**Course**|DP-601|DP-602|DP-603|DP-605|DP-3001|DP-3011|DP-3012|DP-3020|DP-3021|

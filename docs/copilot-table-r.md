@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 [`retired`](../docs/copilot-table-r.md) and [`active`](../docs/copilot-table.md) classes
 
 ```table
