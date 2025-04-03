@@ -8,11 +8,11 @@ layout: default
 
 - [AI](./docs/ai-table.html)
 - [ML](./docs/ml-table.html)
-- [Data](./docs/dp-table.md)
-- [Copilot](./docs/copilot-table.md)
-- [Infra](./docs/admin-table.md)
-- [Dev & DevOps](./docs/dev-table.md)
-- [Security](./docs/security-table.md)   
+- [Data](./docs/dp-table.html)
+- [Copilot](./docs/copilot-table.html)
+- [Infra](./docs/admin-table.html)
+- [Dev & DevOps](./docs/dev-table.html)
+- [Security](./docs/security-table.html)   
      
 **ARB** classes compared by technology:
 

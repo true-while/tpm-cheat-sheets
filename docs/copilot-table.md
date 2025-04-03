@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[`retired`](../docs/copilot-table-r.md) and [`active`](../docs/copilot-table.md) classes
+[`retired`](../docs/copilot-table-r.html) and [`active`](../docs/copilot-table.html) classes
 
 ```table
 | **Course** | _MS-4002_ | _MS-4007_ | _MS-4008_ | _MS-4010_ | _MS-4012_ | _MS-4017_ | _MS-4018_ | _MS-4019_ | _MS-4021_ |
