@@ -6,7 +6,7 @@ layout: default
 
 **One day** classes compared by technology:
 
-- [AI](./docs/ai-table.md)
+- [AI]({% site.github.repository_url %}/docs/ai-table.md)
 - [ML](./docs/ml-table.md)
 - [Data](./docs/dp-table.md)
 - [Copilot](./docs/copilot-table.md)
