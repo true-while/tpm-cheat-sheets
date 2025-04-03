@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{{ page.last_modified_at }}
+
 
 **One day** classes compared by technology:
 
