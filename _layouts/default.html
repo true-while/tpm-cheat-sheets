@@ -16,6 +16,9 @@
         #no-print {
           display: none;
         }
+        .no-print {
+          display: none;
+        }
       }
     </style>
   </head>
@@ -40,7 +43,7 @@
       <!-- Some other stuff... -->
       {{ content }}
 
-      <footer class="site-footer">
+      <footer class="site-footer" id="no-print">
        <span class="site-footer-credits">If you find any inaccuracies <a href="{{ site.github.issues_url }}/new">please let us know!</a>.</span>
       </footer>
     </main>

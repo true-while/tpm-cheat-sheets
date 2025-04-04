@@ -16,11 +16,11 @@ Last modified: {% last_modified_at %B %d, %Y %}
      
 **ARB** classes compared by technology:
 
-- [Data](./docs/dp-table-arb.md)
+- [Data](./docs/dp-table-arb.html)
 
 **One day** vs **ARB** classes comparing by technology:     
    
-- [Infra](./docs/admin-compare.md)
+- [Infra](./docs/admin-compare.html)
 
 
 
