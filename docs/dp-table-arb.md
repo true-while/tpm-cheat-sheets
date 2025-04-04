@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-# **Advanced Role-Based (ARB) courses**
-##### These four (4) days of Advanced Role-Based (ARB) courses focus on Data Engineering, Data Analysis, and Database Administration.
+<span class="no-print">
+Advanced Role-Based (ARB) courses (4-days) focused on Data Engineering, Data Analysis, and Database Administration. Check out [`1-day classes`](../docs/dp-table.html)
+</span>
 
 <small>Last modified: {% last_modified_at %B %d, %Y %}</small>
 

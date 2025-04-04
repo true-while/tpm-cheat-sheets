@@ -1,12 +1,9 @@
 ---
 layout: default
 ---
-<span class="no-print">
-[`retired`](../docs/copilot-table-r.html) and [`active`](../docs/copilot-table.html) classes
-</span>
 
 <span class="no-print">
-Check out other copilot classes:  [`AI-3024`](../docs/ai-table.html), [`AI-3025`](../docs/ai-table.html), [`AZ-2007`](../docs/dev-table.html), [`SC-5006`](../docs/security-table.html)
+Check out other copilot classes:  [`AI-3024`](../docs/ai-table.html), [`AI-3025`](../docs/ai-table.html), [`AZ-2007`](../docs/dev-table.html), [`SC-5006`](../docs/security-table.html) and [`retired`](../docs/copilot-table-r.html) classes
 </span>
 
 <small>Last modified: {% last_modified_at %B %d, %Y %}</small>
