@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
+<div class="no-print">
 ##### These one (1) day Applied Skills courses focus on Data Engineering, Data Analysis, and Event-driven with KQL.
+</div>
 
 <small>Last modified: {% last_modified_at %B %d, %Y %}</small>
 
