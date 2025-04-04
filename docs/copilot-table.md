@@ -5,6 +5,10 @@ layout: default
 
 [`retired`](../docs/copilot-table-r.html) and [`active`](../docs/copilot-table.html) classes
 
+Check out other copilot classes:  [`AI-3024`](../docs/ai-table.md), [`AI-3025`](../docs/ai-table.md), [`AZ-2007`](../docs/dev-table.md)
+
+
+
 ```table
 | **Course** | _MS-4002_ | _MS-4007_ | _MS-4008_ | _MS-4010_ | _MS-4012_ | _MS-4017_ | _MS-4018_ | _MS-4019_ | _MS-4021_ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
