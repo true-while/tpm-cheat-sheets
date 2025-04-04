@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<p class="no-print">
+<small class="no-print">
 [`retired`](../docs/copilot-table-r.html) and [`active`](../docs/copilot-table.html) classes
-</p>
+</small>
 
 <div class="no-print">
 Check out other copilot classes:  [`AI-3024`](../docs/ai-table.html), [`AI-3025`](../docs/ai-table.html), [`AZ-2007`](../docs/dev-table.html), [`SC-5006`](../docs/security-table.html)
