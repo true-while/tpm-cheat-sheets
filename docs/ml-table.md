@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<small>Last modified: {% last_modified_at %B %d, %Y %}</small>
 
 ```table
 | **Course** | _DP-3007_ | _DP-3014_ | _DP-604_ |

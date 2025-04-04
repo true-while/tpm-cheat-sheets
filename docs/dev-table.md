@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<small>Last modified: {% last_modified_at %B %d, %Y %}</small>
 
 ```table
 | **Course** | _AZ-2001_ | _AZ-2002_ | _AZ-2003_ | _AZ-2005_ |  _AZ-2006_ | _AZ-2007_ | _AZ-2008_ |
