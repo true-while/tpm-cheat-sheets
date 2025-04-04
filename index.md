@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+Last modified: {% last_modified_at %B %d, %Y %}
 
 
 **One day** classes compared by technology:
