@@ -42,4 +42,5 @@ MTTTTTTTTTT
 MTTTTTTTTTT
 ```
 
-{{ article.published_at | date: "%a, %b %d, %y" }}
+--
+ {{ page.last_modified_at }}
