@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-<small>Last modified: {% last_modified_at %B %d, %Y %}</small>
+<span class="no-print">
+Check out other [`data platform classes`](../docs/dp-table.html)
+</span>
+
+{% assign current_file = page.path | split: '/' | last | split: '.' | first %}
+<small>Last Modified: {{ site.file_data[current_file] }}</small>
+
 
 ```table
 | **Course** | _DP-3007_ | _DP-3014_ | _DP-604_ |
