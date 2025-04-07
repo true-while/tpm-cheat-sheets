@@ -6,7 +6,8 @@ layout: default
 Check out other copilot classes:  [`AI-3024`](../docs/ai-table.html), [`AI-3025`](../docs/ai-table.html), [`AZ-2007`](../docs/dev-table.html), [`SC-5006`](../docs/security-table.html) and [`active`](../docs/copilot-table.html) classes
 </span>
 
-<small>Last modified: {% last_modified_at %B %d, %Y %}</small>
+{% assign current_file = page.path | split: '/' | last | split: '.' | first %}
+<small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
 | **Course** | _MS-4004_ | _MS-4005_ | _MS-4009_ | 

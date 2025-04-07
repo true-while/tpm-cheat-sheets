@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
 
+
   s.required_ruby_version = ">= 2.4.0"
 
   s.platform = Gem::Platform::RUBY

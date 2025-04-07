@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-Last modified: {% last_modified_at %B %d, %Y %}
+{% assign current_file = page.path | split: '/' | last | split: '.' | first %}
+<small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 
 **One day** classes compared by technology:
@@ -24,5 +25,3 @@ Last modified: {% last_modified_at %B %d, %Y %}
 
 
 
---
- {{ page.last_modified_at }}

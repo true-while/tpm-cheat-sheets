@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<small>Last modified: {% last_modified_at %B %d, %Y %}</small>
+{% assign current_file = page.path | split: '/' | last | split: '.' | first %}
+<small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
 | 1-day class | ARB class | % of total Intersect | Intersect % with ARB class module | Intersect technology | Details | Conclusion |

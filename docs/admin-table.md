@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<small>Last modified: {% last_modified_at %B %d, %Y %}</small>
+{% assign current_file = page.path | split: '/' | last | split: '.' | first %}
+<small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
 | **Course** | _AZ-1002_ | _AZ-1003_ | _AZ-1004_ | _AZ-1006_ | _AZ-1007_ | _AZ-1008_ | _AZ-1010_ |
