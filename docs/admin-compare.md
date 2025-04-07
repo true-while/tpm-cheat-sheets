@@ -25,6 +25,3 @@ layout: default
 
 ```
 
-
---
- {{ page.last_modified_at }}

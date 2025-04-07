@@ -2,12 +2,13 @@
 layout: default
 ---
 
+<span class="no-print">
+Check out other copilot classes:  [`AI-3024`](../docs/ai-table.html), [`AI-3025`](../docs/ai-table.html), [`AZ-2007`](../docs/dev-table.html), [`SC-5006`](../docs/security-table.html) and [`retired`](../docs/copilot-table-r.html) classes
+</span>
 
-[`retired`](../docs/copilot-table-r.html) and [`active`](../docs/copilot-table.html) classes
+{% assign current_file = page.path | split: '/' | last | split: '.' | first %}
+<small>Last Modified: {{ site.file_data[current_file] }}</small>
 
-Check out another copilot classes:  [`AI-3024`](),[AI-3025]() 
-
-_ _ (ex AI-EX)_
 
 ```table
 | **Course** | _MS-4002_ | _MS-4007_ | _MS-4008_ | _MS-4010_ | _MS-4012_ | _MS-4017_ | _MS-4018_ | _MS-4019_ | _MS-4021_ |

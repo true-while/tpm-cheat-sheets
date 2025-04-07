@@ -5,7 +5,8 @@ layout: default
 Advanced Role-Based (ARB) courses (4-days) focused on Data Engineering, Data Analysis, and Database Administration. Check out [`1-day classes`](../docs/dp-table.html)
 </span>
 
-<small>Last modified: {% last_modified_at %B %d, %Y %}</small>
+{% assign current_file = page.path | split: '/' | last | split: '.' | first %}
+<small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 
 ```table

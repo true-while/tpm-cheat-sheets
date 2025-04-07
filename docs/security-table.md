@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<small>Last modified: {% last_modified_at %B %d, %Y %}</small>
-
+{% assign current_file = page.path | split: '/' | last | split: '.' | first %}
+<small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
 | **Course** | _SC-5001_ | _SC-5002_ | _SC-5003_ | _SC-5004_ | _SC-5006_ | _SC-5007_ | _SC-5008_ |  
@@ -43,7 +43,3 @@ MTTTTTTT
 MTTTTTTT
 MTTTTTTT
 ```
-
-
---
- {{ page.last_modified_at }}
