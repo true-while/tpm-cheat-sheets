@@ -2,7 +2,7 @@
 layout: default
 ---
 <span class="no-print">
-Check out other [`data platform classes`](../docs/dp-table.html)
+Check out [`data platform classes`](../docs/dp-table.html)
 </span>
 
 {% assign current_file = page.path | split: '/' | last | split: '.' | first %}

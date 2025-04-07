@@ -43,5 +43,3 @@ MTTTTTTTTTT
 MTTTTTTTTTT
 ```
 
---
- {{ page.last_modified_at }}

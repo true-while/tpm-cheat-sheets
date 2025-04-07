@@ -50,6 +50,3 @@ MTTT
 MTTT
 ```
 
-
---
- {{ page.last_modified_at }}
