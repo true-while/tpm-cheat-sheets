@@ -16,7 +16,7 @@ module Jekyll
         date = `git log -1 --format="%ad" --date=short -- #{file}`.strip
         file_name = File.basename(file, File.extname(file)) # Extract file name without extension
         formatted_date = Date.parse(date).strftime("%B %d, %Y") rescue "Unknown"
-        #puts "File: #{file_name}, Last Modified: #{formatted_date}" # Output for verification
+        puts "File: #{file_name}, Last Modified: #{formatted_date}" # Output for verification
         file_data[file_name] = formatted_date # Add file name and date to the hash
       end
 
