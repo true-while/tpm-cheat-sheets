@@ -24,4 +24,12 @@ layout: default
 - [Infra](./docs/admin-compare.html)
 
 
+**Site File Data:**
+
+<ul>
+  {% for item in site.file_data %}
+    <li><strong>{{ item[0] }}</strong>: {{ item[1] }}</li>
+  {% endfor %}
+</ul>
+
 
