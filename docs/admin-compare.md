@@ -23,5 +23,6 @@ layout: default
 | AZ-2005<br><br>Develop AI agents using Azure<br><br>OpenAI and the Semantic Kernel SDK | AI-102 |     | 15% - Develop Generative AI solutions with Azure OpenAI Service | Azure Open AI | 1-day class intersect with AI-102 in the provisioning and leverage Azure Open AI services. Meanwhile, the 1-day class was created for developers who already have experience with Open AI and want to add interaction with large language models (LLM) to their applications. | AZ-2005 base and extends knowledge received from AI-102 class and also required C# developer background to leverage code to implement interaction with Open AI models and semantic kernels. Meanwhile AI-102 introduces Open AI usage from the AI studio and adds an introduction to coding experience with Open AI models. Semantic kernels and LLMs are not included in scope of AI-102. |
 |     |     |     |     |     |     |     |
 
+
 ```
 
