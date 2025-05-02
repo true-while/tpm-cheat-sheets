@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+<span class="no-print">
+Check out other [`retired`](../docs/ai-table-r.html) classes
+</span>
+
+
+
 {% assign current_file = page.path | split: '/' | last | split: '.' | first %}
 <small>Last Modified: {{ site.file_data[current_file] }}</small>
 
