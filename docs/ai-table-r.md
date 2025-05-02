@@ -22,7 +22,7 @@ Check out other [`active`](../docs/ai-table.html) classes
 | **Intersect classes**| MS-4009 (deep dive) AI-3016 (1/2 day) | No |
 | **Pre-requisites** |  No dev experience, Copilot Studio license | No | 
 | **Agenda** | [4 module](https://learn.microsoft.com/en-us/training/paths/copilot-foundations/) | [1 module](https://learn.microsoft.com/en-us/training/paths/design-dream-destination-ai/?wt.mc_id=fsi_generativeai_explore_wwl) | 
-| **Applied Skills**  | | No |
+| **Applied Skills**  | No | No |
 ```alignment
 LCC
 LLL
