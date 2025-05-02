@@ -6,18 +6,18 @@ layout: default
 <small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
-| **Course** |  |
-| --- | 
-| **Title** |  |
-| **Desc** |  | 
-| **Duration** | | 
-| **Labs** |  |
-| **Audience** |  | 
-| **Pre-req class** |  |
-| ** **|  |
-| **Pre-requisites** |   | 
-| **Agenda** | | 
-| **Applied Skills**  |  |
+| **Course** | GH-900 | GH-300 | GH-500 |
+| --- | --- | --- | --- | 
+| **Title** |  |  |  |
+| **Desc** |  |  |  |
+| **Duration** |  |  |  |
+| **Labs** |  |  |  |
+| **Audience** |  |  |  |
+| **Pre-req class** |  |  |  |
+| ** **|  |  |  |
+| **Pre-requisites** |   |   |  |
+| **Agenda** | |   |  |
+| **Applied Skills**  |  |  |  |
 ```alignment
 LCC
 LLL
