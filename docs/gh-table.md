@@ -8,15 +8,15 @@ layout: default
 ```table
 | **Course** | GH-900 | GH-300 | GH-500 |
 | --- | --- | --- | --- | 
-| **Title** |  |  |  |
-| **Desc** |  |  |  |
-| **Duration** |  |  |  |
-| **Labs** |  |  |  |
-| **Audience** |  |  |  |
+| **Title** |  | GitHub Copilot Fundamentals |  |
+| **Desc** |  | A deep dive into GitHub Copilot, teaching learners how to craft effective prompts and leverage advanced features for test generation, code documentation, quality improvement, and adherence to coding best practices. |  |
+| **Duration** | 1-day | 1-day  | 1-day  |
+| **Labs** |  | 10 Excesses |  |
+| **Audience** |  | Devs, AI engineers, data scientists |  |
 | **Pre-req class** |  |  |  |
-| ** **|  |  |  |
+| **Intersect classes**|  |  AZ-2007 |  |
 | **Pre-requisites** |   |   |  |
-| **Agenda** | |   |  |
+| **Agenda** | | [12 mods](https://learn.microsoft.com/en-us/training/paths/copilot/)  |  |
 | **Applied Skills**  |  |  |  |
 ```alignment
 LCC
