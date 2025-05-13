@@ -39,11 +39,11 @@
        <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/pp-table.html" class="btn">Power</a>
        <!--div>Last updated: <b>{{ page.last_modified_at | date: '%B %d, %Y' }}</b></div-->
      </header>
-     <div>
+     <!--div>
       <select id="list"></select>
-     </div>
+     </div-->
      <script>
-       fetch('/_layouts/list.json')
+       fetch('/assets/list.json')
          .then(response => response.json())
          .then(data => {
            const select = document.getElementById('list');
