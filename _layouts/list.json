@@ -1,0 +1,112 @@
+[
+    {
+        "number": "AI-3002",
+        "title": "Create an intelligent document processing solution",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3003",
+        "title": "Build a natural language processing solution with Azure AI Language",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3004",
+        "title": "Build an Azure AI Vision solution",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3016 (ex AI-50)",
+        "title": "Develop custom copilots with Azure AI Studio",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3017",
+        "title": "Microsoft AI for business leaders",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3019",
+        "title": "Build AI Apps with Azure Database for PostgreSQL",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3022",
+        "title": "Implement AI Skills in Azure AI Search",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3025 (ex AI-EX)",
+        "title": "Work Smarter with AI",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3026",
+        "title": "Develop AI Agents in Azure",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "DP-3007",
+        "title": "Train and deploy a machine learning model with Azure Machine Learning",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"
+    },
+    {
+        "number": "DP-3014",
+        "title": "Implementing a machine learning solution with Azure Databricks",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"
+    },
+    {
+        "number": "DP-604",
+        "title": "Implement data science and machine learning solution for AI with Microsoft Fabric",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"
+    },
+    {
+        "number": "DP-601",
+        "title": "Implement a Lakehouse with Microsoft Fabric",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-602",
+        "title": "Implement a data warehouse with Microsoft Fabric",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-603",
+        "title": "Implement Real-Time Intelligence with Microsoft Fabric",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-605",
+        "title": "Develop reports with Microsoft Power BI",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-3001",
+        "title": "Migrate SQL Server workloads to Azure SQL",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-3011",
+        "title": "Implementing a data analytics solution with Azure Databricks",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-3012",
+        "title": "Implementing a Data Analytics Solution with Azure Synapse Analytics",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-3015",
+        "title": "Develop data-driven applications by using Azure SQL Database",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-3020",
+        "title": "Getting Started with Cosmos DB NoSQL Development",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-3021",
+        "title": "Configure and migrate to Azure Database for PostgreSQL",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    }
+]
