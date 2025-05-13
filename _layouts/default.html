@@ -49,9 +49,16 @@
            const select = document.getElementById('list');
            data.forEach(item => {
              const option = document.createElement('option');
-             option.value = item.number;
+             option.value = item.url;
              option.textContent = `${item.number} - ${item.title}`;
              select.appendChild(option);
+           });
+
+           select.addEventListener('change', () => {
+             const selectedUrl = select.value;
+             if (selectedUrl) {
+               window.location.href = selectedUrl;
+             }
            });
          })
          .catch(error => console.error('Error loading list.json:', error));
