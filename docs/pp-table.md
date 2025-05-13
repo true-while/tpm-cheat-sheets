@@ -18,7 +18,7 @@ Studio |
 | **License** | Provided by Lab hosting | Provided by Lab hosting | 
 | **Duration** | 3 day | 1 day | 
 | **Labs** | [11 Labs](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst) | [9 Labs](https://github.com/MicrosoftLearning/mslearn-copilotstudio) |  
-| **Audience** |  | AI Engines, Power Platform Users |  
+| **Audience** | Data Analyst  | AI Engines, Power Platform Users |  
 | **Pre-req class** | PL-900 as plus | PL-900 |
 | **Pre-requisites** | Any Reporting  | Power Platform, Copilot Studio  |
 | **Intersect classes** | DP-605 (short version) | PL-100/200/500, MS-X 1-day) |
