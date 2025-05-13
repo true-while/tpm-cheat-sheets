@@ -7,29 +7,25 @@ layout: default
 
 **One day** classes compared by technology:
 
-- [AI](./docs/ai-table.html)
-- [ML](./docs/ml-table.html)
-- [Data](./docs/dp-table.html)
-- [Copilot](./docs/copilot-table.html)
-- [Infra](./docs/admin-table.html)
-- [Dev & DevOps](./docs/dev-table.html)
-- [Security](./docs/security-table.html)   
+- [AI (AI series)](./docs/ai-table.html)
+- [ML (DP series)](./docs/ml-table.html)
+- [Data (DP series)](./docs/dp-table.html)
+- [Copilot (MS series)](./docs/copilot-table.html)
+- [Infra (AZ series)](./docs/admin-table.html)
+- [Dev (AZ series)](./docs/dev-table.html)
+- [DevOps (GH series)](./docs/gh-table.html)
+- [Security (SC series)](./docs/security-table.html)   
+- [Power Platform (PL series)](./docs/security-table.html)   
      
 **ARB** classes compared by technology:
 
 - [Data](./docs/dp-table-arb.html)
+- [Power Platform](./docs/security-table.html) 
 
-**One day** vs **ARB** classes comparing by technology:     
-   
-- [Infra](./docs/admin-compare.html)
+**Retired** classes
 
+- [Copilot (MS series)](./docs/copilot-table-r.html)
+- [AI (AI series)](./docs/ai-table-r.html)
 
-**Site File Data:**
-
-<ul>
-  {% for item in site.file_data %}
-    <li><strong>{{ item[0] }}</strong>: {{ item[1] }}</li>
-  {% endfor %}
-</ul>
 
 
