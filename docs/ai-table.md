@@ -19,34 +19,34 @@ Check out other [`retired`](../docs/ai-table-r.html) classes
 | **Duration** | 1-day | 1-day | 1-day | 1-day | 3-hour | 1-day | 1-day | 3-hours | 1-day |
 | **Labs** | [5 Labs](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence) | [8 Labs](https://github.com/MicrosoftLearning/mslearn-ai-language) | [7 Labs](https://github.com/MicrosoftLearning/mslearn-ai-vision) | [8 Labs](https://github.com/MicrosoftLearning/mslearn-ai-studio) | No labs | [7 Labs](https://github.com/MicrosoftLearning/mslearn-postgresql) | 5 Labs | 2 Labs (license provided) | [5 labs](https://microsoftlearning.github.io/mslearn-ai-agents/) |
 | **Audience** | Devs, AI Engineers | Devs, AI Engineers | Devs, AI Engineers | Devs. AI Engineers | Business Users. | ML & AI Engineers | Devs, AI Engineers | Business users (no tech req) | Devs, AI Engineer |
-| **Pre-req class** | AI-900 | AI-900 | AI-900 | AI-900 | No  | No  |  No  | AZ-900 | 
+| **Pre-req class** | AI-900 | AI-900 | AI-900 | AI-900 | No  | No  |  No  | AZ-900 |  |
 | **Pre-requisites** | Python or C# | Python or C# | Python or C# | Python | General AI knowledge. | SQL, PostgreSQL | Azure AI Studio, Python or C# | MS Office (BYOL) or Web | Python |
 | **Intersect classes** | AI-102 (~1/2 day) | AI-102 (~one day) | AI-102 (~one day) | AI-102 (~2/3 day), AI-050 (full) | AI-900 (1/2 day) focused on IT. | DP-3021 (1/5 day) | AI-102 (1/2 day) | MS-4005 | AI-3016 (1/5), AZ-2005 (1/4) |
 | **Agenda** | [3 modules](https://learn.microsoft.com/en-us/training/paths/extract-data-from-forms-document-intelligence/) | [9 modules](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [7 modules](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | [8 modules](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | [5 modules](https://learn.microsoft.com/en-gb/training/paths/discover-microsoft-ai-leaders-manufacturing/) | [7 Modules](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/) | [8 modules](https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/) | [1 module](https://learn.microsoft.com/en-us/training/modules/explore-microsoft-copilot-business-users/) |
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/build-azure-ai-vision-solution/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | No  | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql/) | No | No | No |
 ```alignment
-LCCCCCCCCCCC
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
-LLLLLLLLLLLL
+LCCCCCCCCC
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
 ```valign
-TTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
-MTTTTTTTTTTT
+TTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
 ```
 
