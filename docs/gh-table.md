@@ -6,7 +6,7 @@ layout: default
 <small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
-| **Course** | GH-900 | GH-300 | GH-500 |
+| **Course** | | GH-300 | GH-500 |
 | --- | --- | --- | --- | 
 | **Title** |  | GitHub Copilot Fundamentals |  |
 | **Desc** |  | A deep dive into GitHub Copilot, teaching learners how to craft effective prompts and leverage advanced features for test generation, code documentation, quality improvement, and adherence to coding best practices. |  |

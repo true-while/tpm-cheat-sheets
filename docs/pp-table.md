@@ -24,4 +24,30 @@ Studio |
 | **Intersect classes** | DP-605 (short version) | PL-100/200/500, MS-X 1-day) |
 | **Agenda** | [3 learn paths](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-300t00)| [5 Modules](https://learn.microsoft.com/en-us/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/) |
 | **Applied Skills** | [Exam](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification) | No  |
+```alignment
+LCC
+LLL
+LLL
+LLL
+LLL
+LLL
+LLL
+LLL
+LLL
+LLL
+LLL
+LLL
+```valign
+TTT
+MTT
+MTT
+MTT
+MTT
+MTT
+MTT
+MTT
+MTT
+MTT
+MTT
+MTT
 ```
