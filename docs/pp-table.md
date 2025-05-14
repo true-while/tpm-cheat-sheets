@@ -20,7 +20,7 @@ Studio |
 | **Labs** | [11 Labs](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst) | [9 Labs](https://github.com/MicrosoftLearning/mslearn-copilotstudio) |  
 | **Audience** | Data Analyst  | AI Engines, Power Platform Users |  
 | **Pre-req class** | PL-900 as plus | PL-900 |
-| **Pre-requisites** | Any Reporting  | Power Platform, Copilot Studio  |
+| **Pre-requisites** | Any Reporting  | Power Platform, Copilot Studio, no code.  |
 | **Intersect classes** | DP-605 (short version) | PL-100/200/500, MS-X 1-day) |
 | **Agenda** | [3 learn paths](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-300t00)| [5 Modules](https://learn.microsoft.com/en-us/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/) |
 | **Applied Skills** | [Exam](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification) | No  |
