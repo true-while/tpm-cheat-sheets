@@ -19,7 +19,7 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
     },
     {
-        "number": "AI-3016 (ex AI-50)",
+        "number": "AI-3016",
         "title": "Develop custom copilots with Azure AI Studio",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
     },
@@ -27,6 +27,11 @@ layout: null
         "number": "AI-3017",
         "title": "Microsoft AI for business leaders",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },
+    {
+        "number": "AI-3018",
+        "title": "Copilot Foundations",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table-r.html"
     },
     {
         "number": "AI-3019",
@@ -39,7 +44,12 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
     },
     {
-        "number": "AI-3025 (ex AI-EX)",
+        "number": "AI-3024",
+        "title": "Design a dream destination with AI",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table-r.html"
+    },
+    {
+        "number": "AI-3025",
         "title": "Work Smarter with AI",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
     },
@@ -119,6 +129,11 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"
     },
     {
+        "number": "DP-300",
+        "title": "Azure Database Administrator Associate",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
+    },
+    {
         "number": "DP-3001",
         "title": "Migrate SQL Server workloads to Azure SQL",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
@@ -159,9 +174,9 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
     },
     {
-        "number": "DP-604",
-        "title": "Implement data science and machine learning solution for AI with Microsoft Fabric",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"
+        "number": "DP-600",
+        "title": "Fabric Analytics Engineer Associate",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
     },
     {
         "number": "DP-601",
@@ -179,9 +194,24 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
     },
     {
+        "number": "DP-604",
+        "title": "Implement data science and machine learning solution for AI with Microsoft Fabric",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"
+    },
+    {
         "number": "DP-605",
         "title": "Develop reports with Microsoft Power BI",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-700",
+        "title": "Fabric Data Engineer Associate",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
+    },
+    {
+        "number": "DP-203",
+        "title": "Azure Data Engineer Associate",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
     },
     {
         "number": "GH-300",
@@ -199,6 +229,16 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
     },
     {
+        "number": "MS-4004",
+        "title": "Empower your workforce with Copilot for M365 Use Cases",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"
+    },
+    {
+        "number": "MS-4005",
+        "title": "Craft effective prompts for Microsoft Copilot for Microsoft 365",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"
+    },
+    {
         "number": "MS-4007",
         "title": "Microsoft 365 Copilot User Enablement Specialist",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
@@ -209,13 +249,13 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
     },
     {
-        "number": "MS-4010",
-        "title": "Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
+        "number": "MS-4009",
+        "title": "Extend Microsoft Copilot for Microsoft 365 with Copilot Studio",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"
     },
     {
-        "number": "MS-4012",
-        "title": "[Duplicate] Microsoft 365 Copilot Chat Interactive Experience for Executives",
+        "number": "MS-4010",
+        "title": "Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
     },
     {

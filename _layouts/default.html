@@ -69,7 +69,7 @@
              data.forEach(item => {
                const option = document.createElement('option');
                option.value = item.url;
-               option.textContent = `${item.number} - ${item.title}`;
+               option.textContent = `${item.number}: ${item.title}`;
                select.appendChild(option);
              });
 
