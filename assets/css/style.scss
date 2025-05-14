@@ -1,4 +1,20 @@
 ---
 ---
 
+#list {
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  #list option {
+    background-color: white;
+    color: black;
+  }
+
 @import 'jekyll-theme-cayman';

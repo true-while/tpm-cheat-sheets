@@ -38,12 +38,12 @@
        <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/security-table.html" class="btn">Security</a>
        <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/pp-table.html" class="btn">Power</a>
        <!--div>Last updated: <b>{{ page.last_modified_at | date: '%B %d, %Y' }}</b></div-->
-     </header>
+
      <div>
       <select id="list"></select>
      </div>
      <script>
-       var jfile = "{{ 'list.json' | asset_url }}"
+       var jfile = "{{ '/assets/list.json' | relative_url }}"
        fetch(jfile)
          .then(response => response.json())
          .then(data => {
@@ -64,7 +64,7 @@
          })
          .catch(error => console.error('Error loading list.json:', error));
      </script>
-
+     </header>
     <main id="content" class="main-content" role="main">
       {% capture content %}{% include fancy-tables.liquid html=content %}{% endcapture %}
       <!-- Some other stuff... -->
