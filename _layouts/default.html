@@ -43,16 +43,23 @@
       <select id="list"></select>
      </div>
      <script>
-       var jfile = "{{ '/assets/list.json' | relative_url }}"
+       var jfile = "{{ '/assets/list.json' | relative_url }}";
        fetch(jfile)
          .then(response => response.json())
          .then(data => {
            const select = document.getElementById('list');
+           const currentUrl = window.location.href;
+
            data.forEach(item => {
              const option = document.createElement('option');
              option.value = item.url;
              option.textContent = `${item.number} - ${item.title}`;
              select.appendChild(option);
+
+             // Automatically select the option if it matches the current URL
+             if (currentUrl.includes(item.url)) {
+               option.selected = true;
+             }
            });
 
            select.addEventListener('change', () => {
