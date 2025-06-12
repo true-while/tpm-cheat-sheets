@@ -17,4 +17,20 @@
     color: black;
   }
 
+
+  #maintable  th {
+      cursor: pointer;
+    }
+   
+  #maintable  .highlight {
+      background-color: #35fdd85d; 
+      border-left: #7b7f7fa0 solid 3px;
+      border-right: #7b7f7fa0 solid 3px;
+    }
+  
+
+
+
+
+
 @import 'jekyll-theme-cayman';

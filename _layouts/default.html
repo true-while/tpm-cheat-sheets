@@ -53,6 +53,18 @@
          }
        }
 
+      function highlightColumn(index) {
+          const table = document.getElementById("maintable");
+          for (let row of table.rows) {
+            for (let cell of row.cells) {
+              cell.classList.remove("highlight");
+            }
+            if (row.cells[index]) {
+              row.cells[index].classList.add("highlight");
+            }
+          }
+      }
+
        $(document).ready(function () {
          var jfile = "{{ '/assets/list.json' | relative_url }}";
          fetch(jfile)

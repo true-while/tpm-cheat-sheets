@@ -38,7 +38,7 @@
     {% endif -%}
 
     {% assign cell_index = 0 -%}
-    <table>
+    <table id='maintable'>
       {% unless starts contains check_first_row -%}
         <thead>
           <tr>
@@ -65,7 +65,7 @@
                 {% else %}
                   {% assign align = 'left' %}
               {% endcase %}
-              <th colspan="{{ col_span }}" data-nth-cell="{{ cell_index | plus: 1 }}" align="{{ align }}" valign="{{ valign }}">
+              <th onclick="highlightColumn({{ cell_index }})" colspan="{{ col_span }}" data-nth-cell="{{ cell_index | plus: 1 }}" align="{{ align }}" valign="{{ valign }}">
                 {{- cleaned | strip | markdownify | split: '<p>' | shift | join: '<p>' | split: '</p>' | pop | join: '</p>' -}}
               </th>
 
