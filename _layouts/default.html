@@ -64,14 +64,13 @@
       function highlightColumn(index, classname) {
         const table = document.getElementById("maintable");
         if (!index) {
-            for (let row of table.rows) {
-              for (let cell of row.cells) {
+              for (let cell of table.rows[0].cells) {
                 if (cell.textContent == classname)
                 {
                     index = cell.cellIndex;
                     break  
                 }            
-            }
+            
           }
         }
         
