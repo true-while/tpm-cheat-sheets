@@ -61,16 +61,16 @@
         }
       }
 
-      function highlightColumn(index) {
+      function highlightColumn(index, classname) {
         const table = document.getElementById("maintable");
         if (!index) {
-
-
             for (let row of table.rows) {
               for (let cell of row.cells) {
                 if (cell.textContent == classname)
-                  index = cell.cellIndex;
-              
+                {
+                    index = cell.cellIndex;
+                    break  
+                }            
             }
           }
         }
@@ -115,7 +115,7 @@
           .catch(error => console.error('Error loading list.json:', error));
 
           const urlParams = new URLSearchParams(window.location.search);
-          classname = urlParams.get('c');
+          const classname = urlParams.get('c');
           if (classname) {
             highlightColumn(undefined, classname);
           }

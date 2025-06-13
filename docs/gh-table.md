@@ -18,26 +18,26 @@ layout: default
 | **Pre-req class** |  | GH-900 | GH-900  | GH-900 |
 | **Agenda** | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-900t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-100t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-300t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-500t00) |
 ```alignment
-LCCC
-LLLL
-LLLL
-LLLL
-LLLL
-LLLL
-LLLL
-LLLL
-LLLL
-LLLL
+LCCCC
+LLLLL
+LLLLL
+LLLLL
+LLLLL
+LLLLL
+LLLLL
+LLLLL
+LLLLL
+LLLLL
 ```valign
-TTTT
-MTTT
-MTTT
-MTTT
-MTTT
-MTTT
-MTTT
-MTTT
-MTTT
-MTTT
+TTTTT
+MTTTT
+MTTTT
+MTTTT
+MTTTT
+MTTTT
+MTTTT
+MTTTT
+MTTTT
+MTTTT
 ```
 
