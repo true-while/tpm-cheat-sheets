@@ -289,6 +289,11 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
     },
     {
+        "number": "MS-4023",
+        "title": "Explore Microsoft 365 Copilot Chat",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
+    },
+    {
         "number": "PL-300",
         "title": "Power BI Data Analyst",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/pp-table.html"

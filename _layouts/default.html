@@ -1,108 +1,138 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+<html lang="{{ site.lang | default: " en-US" }}">
 
-{% seo %}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/css/selectize.default.min.css">
-    {% include head-custom.html %}
-    <style>
-      @media print {
-        #no-print {
-          display: none;
-        }
-        .no-print {
-          display: none;
+<head>
+  <meta charset="UTF-8">
+
+  {% seo %}
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
+    type="text/css" crossorigin>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/css/selectize.default.min.css">
+  {% include head-custom.html %}
+  <style>
+    @media print {
+      #no-print {
+        display: none;
+      }
+
+      .no-print {
+        display: none;
+      }
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+</head>
+
+<body>
+  <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+  <header class="page-header" role="banner" id="no-print">
+    <h2 class="project-name"><a href="{{ site.github.repository_url }}/tpm-cheat-sheets/">{{ site.title }}</a></h2>
+    <!--h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2-->
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/ai-table.html" class="btn">AI</a>
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/ml-table.html" class="btn">ML</a>
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/dp-table.html" class="btn">Data</a>
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/copilot-table.html" class="btn">Copilot</a>
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/admin-table.html" class="btn">Infra</a>
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/dev-table.html" class="btn">Dev</a>
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/gh-table.html" class="btn">DevOps</a>
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/security-table.html" class="btn">Security</a>
+    <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/pp-table.html" class="btn">Power</a>
+    <!--div>Last updated: <b>{{ page.last_modified_at | date: '%B %d, %Y' }}</b></div-->
+
+    <div>
+      <select id="list" class="operator" onchange="handleSelectChange(this)"></select>
+    </div>
+    <script>
+      function handleSelectChange(selectElem) {
+        var selectedOption = selectElem.options[selectElem.selectedIndex];
+        var value = selectedOption.value;
+        var classname = selectedOption.className;
+        if (value) {
+          window.location.href = value + "?c=" + classname;
         }
       }
-    </style>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
-    <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner" id="no-print">
-      <h2 class="project-name"><a href="{{ site.github.repository_url }}/tpm-cheat-sheets/">{{ site.title }}</a></h2>
-      <!--h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2-->
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/ai-table.html" class="btn">AI</a>
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/ml-table.html" class="btn">ML</a>
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/dp-table.html" class="btn">Data</a>
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/copilot-table.html" class="btn">Copilot</a>
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/admin-table.html" class="btn">Infra</a>
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/dev-table.html" class="btn">Dev</a>
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/gh-table.html" class="btn">DevOps</a>
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/security-table.html" class="btn">Security</a>
-       <a href="{{ site.github.repository_url }}/tpm-cheat-sheets/docs/pp-table.html" class="btn">Power</a>
-       <!--div>Last updated: <b>{{ page.last_modified_at | date: '%B %d, %Y' }}</b></div-->
-
-     <div>
-      <select id="list" class="operator" onchange="handleSelectChange(this.value)"></select>
-     </div>
-     <script>
-       function handleSelectChange(value) {
-         if (value) {
-             window.location.href = value;
-         }
-       }
 
       function highlightColumn(index) {
+        const table = document.getElementById("maintable");
+        if (!index) {
+
+
+            for (let row of table.rows) {
+              for (let cell of row.cells) {
+                if (cell.textContent == classname)
+                  index = cell.cellIndex;
+              
+            }
+          }
+        }
+        
         if (index < 1) return;
-          const table = document.getElementById("maintable");
-          for (let row of table.rows) {
-            for (let cell of row.cells) {
-              cell.classList.remove("highlight");
-            }
-            if (row.cells[index]) {
-              row.cells[index].classList.add("highlight");
-            }
-          }
+        for (let row of table.rows) {
+          for (let cell of row.cells) {
+            cell.classList.remove("highlight");
+          }
+          if (row.cells[index]) {
+            row.cells[index].classList.add("highlight");
+          }
+        }
       }
 
-       $(document).ready(function () {
-         var jfile = "{{ '/assets/list.json' | relative_url }}";
-         fetch(jfile)
-           .then(response => response.json())
-           .then(data => {
-             const select = document.getElementById('list');
+      $(document).ready(function () {
+        var jfile = "{{ '/assets/list.json' | relative_url }}";
+        fetch(jfile)
+          .then(response => response.json())
+          .then(data => {
+            const select = document.getElementById('list');
 
-             // Add default option
-             const defaultOption = document.createElement('option');
-             defaultOption.value = "";
-             defaultOption.textContent = "Select a Course...";
-             select.appendChild(defaultOption);
+            // Add default option
+            const defaultOption = document.createElement('option');
+            defaultOption.value = "";
+            defaultOption.textContent = "Select a Course...";
+            select.appendChild(defaultOption);
 
-             data.forEach(item => {
-               const option = document.createElement('option');
-               option.value = item.url;
-               option.textContent = `${item.number}: ${item.title}`;
-               select.appendChild(option);
-             });
+            data.forEach(item => {
+              const option = document.createElement('option');
+              option.value = item.url;
+              option.textContent = `${item.number}: ${item.title}`;
+              option.className = `${item.number}`;
+              select.appendChild(option);
+            });
 
-             // Initialize Select2 on the select element
-             $(select).select2({
-               placeholder: 'Type to search...'
-             });
-           })
-           .catch(error => console.error('Error loading list.json:', error));
-       });
-     </script>
-     </header>
-    <main id="content" class="main-content" role="main">
-      {% capture content %}{% include fancy-tables.liquid html=content %}{% endcapture %}
-      <!-- Some other stuff... -->
-      {{ content }}
+            // Initialize Select2 on the select element
+            $(select).select2({
+              placeholder: 'Type to search...'
+            });
+          })
+          .catch(error => console.error('Error loading list.json:', error));
 
-      <footer class="site-footer" id="no-print">
-       <span class="site-footer-credits">If you find any inaccuracies <a href="https://forms.office.com/r/2d2DdrTDkS">please let us know!</a>.</span>
-      </footer>
-    </main>
-  </body>
+          const urlParams = new URLSearchParams(window.location.search);
+          classname = urlParams.get('c');
+          if (classname) {
+            highlightColumn(undefined, classname);
+          }
+
+      });
+    </script>
+  </header>
+  <main id="content" class="main-content" role="main">
+    {% capture content %}{% include fancy-tables.liquid html=content %}{% endcapture %}
+    <!-- Some other stuff... -->
+    {{ content }}
+
+    <footer class="site-footer" id="no-print">
+      <span class="site-footer-credits">If you find any inaccuracies <a
+          href="https://forms.office.com/r/2d2DdrTDkS">please let us know!</a>.</span>
+    </footer>
+  </main>
+</body>
+
 </html>
