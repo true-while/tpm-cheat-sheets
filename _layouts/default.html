@@ -54,6 +54,7 @@
        }
 
       function highlightColumn(index) {
+        if (index < 1) return;
           const table = document.getElementById("maintable");
           for (let row of table.rows) {
             for (let cell of row.cells) {
