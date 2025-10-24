@@ -18,26 +18,26 @@ layout: default
 | **Pre-req class** | - | GH-900 | GH-900 | GH-900 | GH-900, GH-100 | - |
 | **Agenda** | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-900t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-100t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-200t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-300t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-500t00) | [5 modules](https://learn.microsoft.com/en-us/training/paths/devops-foundations-core-principles-practices/) |
 ```alignment
-LCCCCC
-LLLLLL
-LLLLLL
-LLLLLL
-LLLLLL
-LLLLLL
-LLLLLL
-LLLLLL
-LLLLLL
-LLLLLL
+LCCCCCC
+LLLLLLL
+LLLLLLL
+LLLLLLL
+LLLLLLL
+LLLLLLL
+LLLLLLL
+LLLLLLL
+LLLLLLL
+LLLLLLL
 ```valign
-TTTTTT
-MTTTTT
-MTTTTT
-MTTTTT
-MTTTTT
-MTTTTT
-MTTTTT
-MTTTTT
-MTTTTT
-MTTTTT
+TTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
 ```
 

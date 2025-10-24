@@ -13,7 +13,7 @@ Check out other dev related classes [`DP-3020`](../docs/dev-table.html)
 | --- | --- | --- | --- | --- | --- | --- | 
 | **Title** | Implement security through a pipeline using Azure DevOps | Develop an ASP.NET Core web app that consumes an API | Deploy cloud-native apps using Azure Container Apps | Develop AI agents using Azure OpenAI and the Semantic Kernel SDK | Automate Azure Load Testing by using GitHub Actions | Accelerate app development by using GitHub Copilot | 
 | **Desc** | Deep dive in DevSecOps Permission, Identities, Templates, integration with Azure KeyVault | Deep dive in the modern Web App development on ASP .Net Core platform. Covers API and Razor | Deep dive in Container Apps deployment and Azure Container Registry to host container images. | Deep dive in extending application with AI agents, prompts, native functions. | DevOps content focused on GitHub workflows and action to automate load testing environments. Also provide security and configuration skills for GitHub. |  Deep dive in the copilot extension for Visual Studio Code. | 
-| **Duration** | 1-day class | 1-day class | 1-day class | 1-day class | 1-day class | 1-day class | 1-day class |
+| **Duration** | 1-day class | 1-day class | 1-day class | 1-day class | 1-day class | 1-day class |
 | **Labs** | 7 labs | 3 Labs | 1 Lab | 2 Labs | [3 Labs](https://microsoftlearning.github.io/AZ-2006-automate-azure-loadtesting-github-actions/) | [4 Labs](https://microsoftlearning.github.io/AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot/) |
 | **Audience** | DevOps, Ops, Admins, Devs. | Developers | Developers, DevOps | Developers, DevOps | Developers | Developers |
 | **Pre-req class** | AZ-204 or AZ-104 | AZ-204 | AZ-204 | AI-900 | no | no  | 
