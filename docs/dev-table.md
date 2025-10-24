@@ -5,7 +5,7 @@ layout: default
 {% assign current_file = page.path | split: '/' | last | split: '.' | first %}
 <small>Last Modified: {{ site.file_data[current_file] }}</small>
 
-Check out other dev related classes [`DP-3020`](../docs/dev-table.html)
+Check out other dev related classes [`DP-3020`](../docs/dp-table.html?c=DP-3020)
 
 
 ```table
