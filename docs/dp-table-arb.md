@@ -10,7 +10,7 @@ Advanced Role-Based (ARB) courses (4-days) focused on Data Engineering, Data Ana
 
 
 ```table
-|**Course**|DP-700|DP-600|DP-300|DP-203|
+|**Course**| _DP-700_ | _DP-600_ | _DP-300_ | _DP-203_ (retired)|
 |** --- **| --- | --- | --- | --- |
 |**Title**|Fabric Data Engineer Associate|Fabric Analytics Engineer Associate|Azure Database Administrator Associate|Azure Data Engineer Associate|
 |**Desc**|Ingesting and transforming data, Securing and managing an analytics solution, Monitoring and optimizing an analytics solution. |Prepare and enrich data for analysis, Secure and maintain analytics assets, Implement and manage semantic models|Plan and implement data platform resources, Implement a secure environment, Monitor, configure, and optimize database resources, Configure and manage automation of tasks, Plan and configure a high availability and disaster recovery (HA/DR) environment|Design and implement data storage, Develop data processing, Secure, monitor, and optimize data storage and data processing|

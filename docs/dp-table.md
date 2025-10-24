@@ -22,7 +22,7 @@ Check out other Data Platform related classes [`ML`](../docs/dp-table.html) and 
 |**Intersect classes**|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|[DP-700](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/)|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|[DP-300](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/)|[DP-203](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)|[DP-203](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)|[DP-300](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/)| [DP-420](https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty/)| For DBA.|
 | **Agenda** | [7 Modules](https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/) | [4 Modules](https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/)|[7 Modules](https://learn.microsoft.com/en-us/training/paths/develop-dynamic-reports-microsoft-power-bi/)|[8 Modules](https://learn.microsoft.com/en-us/training/paths/migrate-sql-workloads-azure/) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/) | [5 Modules](https://learn.microsoft.com/en-us/training/courses/dp-3012#course-syllabus) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/develop-data-driven-app-sql-db/) | [5 Modules](https://learn.microsoft.com/en-us/training/courses/dp-3015) | [11 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/)|
 |**Assessment**| [Yes](https://learn.microsoft.com/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)| [Yes](https://learn.microsoft.com/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/)| [Yes](https://learn.microsoft.com/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/)| No | [Yes](https://learn.microsoft.com/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/)| No | No | [Yes](https://learn.microsoft.com/credentials/applied-skills/develop-data-driven-applications-by-using-microsoft-azure-sql-database/)| No | No |
-
+| **Updated** |  |  | | 10/3/2025 | | 10/3/2025 | | | | |
 ```alignment
 LCCCCCCCCC
 LLLLLLLLLL
@@ -36,8 +36,10 @@ LLLLLLLLLL
 LLLLLLLLLL
 LLLLLLLLLL
 LLLLLLLLLL
+LCCCCCCCCC
 ```valign
 TTTTTTTTTT
+MTTTTTTTTT
 MTTTTTTTTT
 MTTTTTTTTT
 MTTTTTTTTT

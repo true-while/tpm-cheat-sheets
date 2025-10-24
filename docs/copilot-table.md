@@ -3,7 +3,7 @@ layout: default
 ---
 
 <span class="no-print">
-Check out other copilot classes:  [`AI-3024`](../docs/ai-table.html?c=AI-3024), [`AI-3025`](../docs/ai-table.html?c=AI-3025), [`AZ-2007`](../docs/dev-table.html?c=AZ-2007), [`SC-5006`](../docs/security-table.html?c=SC-5006) and [`retired`](../docs/copilot-table-r.html) classes
+Check out other copilot classes:  [`AI-3024`](../docs/ai-table-r.html?c=AI-3024), [`AI-3025`](../docs/ai-table.html?c=AI-3025), [`AZ-2007`](../docs/dev-table.html?c=AZ-2007), [`SC-5006`](../docs/security-table.html?c=SC-5006) and [`retired`](../docs/copilot-table-r.html) classes
 </span>
 
 {% assign current_file = page.path | split: '/' | last | split: '.' | first %}

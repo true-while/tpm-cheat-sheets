@@ -15,12 +15,13 @@ layout: default
 - [Dev (AZ series)](./docs/dev-table.html)
 - [DevOps (GH series)](./docs/gh-table.html)
 - [Security (SC series)](./docs/security-table.html)   
-- [Power Platform (PL series)](./docs/security-table.html)   
+- [Power Platform (PL series)](./docs/security-table.html)  
+- [Fabric (DP series)](./docs/fbr-table.html) 
      
 **ARB** classes compared by technology:
 
 - [Data](./docs/dp-table-arb.html)
-- [Power Platform](./docs/security-table.html) 
+
 
 **Retired** classes
 

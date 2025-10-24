@@ -187,17 +187,17 @@ layout: null
     {
         "number": "DP-601",
         "title": "Implement a Lakehouse with Microsoft Fabric",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"
     },
     {
         "number": "DP-602",
         "title": "Implement a data warehouse with Microsoft Fabric",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"
     },
     {
         "number": "DP-603",
         "title": "Implement Real-Time Intelligence with Microsoft Fabric",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"
     },
     {
         "number": "DP-604",
@@ -207,7 +207,7 @@ layout: null
     {
         "number": "DP-605",
         "title": "Develop reports with Microsoft Power BI",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"
     },
     {
         "number": "DP-700",
