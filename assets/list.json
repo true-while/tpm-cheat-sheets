@@ -224,6 +224,11 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
     },
     {
+        "number": "GH-200",
+        "title": "Automate your workflow with GitHub Actions",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
+    },
+    {
         "number": "GH-300",
         "title": "GitHub Copilot Fundamentals",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
