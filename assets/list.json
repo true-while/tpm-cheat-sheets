@@ -4,11 +4,7 @@ layout: null
 
 [
     
-    {
-        "number": "AI-400",
-        "title": "Designing and Implementing Microsoft DevOps Solutions",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
-    },
+
     {
         "number": "AI-3002",
         "title": "Create an intelligent document processing solution",
@@ -63,6 +59,10 @@ layout: null
         "number": "AI-3026",
         "title": "Develop AI Agents in Azure",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
+    },    {
+        "number": "AZ-400",
+        "title": "Designing and Implementing Microsoft DevOps Solutions",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
     },
     {
         "number": "AZ-1002",
