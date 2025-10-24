@@ -8,8 +8,7 @@ layout: default
 ```table
 | **Course** | GH-900 | GH-100 | GH-200 | GH-300 | GH-500 |
 | --- | --- | --- | --- | --- |
-| **Title** | GitHub Foundations | GitHub Fundamentals - Administration basics and product features | Automate your workflow with 
-GitHub Actions | GitHub - Copilot Fundamentals |  GitHub - Advanced Security |
+| **Title** | GitHub Foundations | GitHub Fundamentals - Administration basics and product features | Automate your workflow with GitHub Actions | GitHub - Copilot Fundamentals |  GitHub - Advanced Security |
 | **Desc** | Introduction of fundamental concepts, features, and products of GitHub. Learners discover benefits of using GitHub as a collaborative platform and explore repository management, pipelines and security. | Teaches GitHub Enterprise admins how to manage users, secure workflows, automate CI/CD pipelines, and integrate third-party tools and aiming to scale and secure GitHub environments efficiently. | Class teaches developers and platform teams to design, implement, and optimize secure, enterprise-grade CI/CD workflows using GitHub Actions, covering setup, automation, extensibility, and compliance.| A deep dive into GitHub Copilot, teaching learners how to craft effective prompts and leverage advanced features for test generation, code documentation, quality improvement, and adherence to coding best practices. | Deep dive in DevSecOps with  advanced security tools like dependapot, Code QL, GHAS including secrets handling and code scans and polices. |
 | **Duration** | 1-day | 1-day | 1-day | 1-day | 1-day  | 
 | **Labs** | 11 exercises from Learn  | 5 exercises from Learn | 7 exercises from Learn | 10 exercises from Learn | 6 exercises from Learn |
