@@ -3,6 +3,12 @@ layout: null
 ---
 
 [
+    
+    {
+        "number": "AI-400",
+        "title": "Designing and Implementing Microsoft DevOps Solutions",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
+    },
     {
         "number": "AI-3002",
         "title": "Create an intelligent document processing solution",
