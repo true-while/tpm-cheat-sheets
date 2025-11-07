@@ -5,7 +5,7 @@ layout: default
 <small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
-| **Course** | _AZ-1002_ retired | _AZ-1003_ retired | _AZ-1004_ retired | _AZ-1006_ | _AZ-1007_ | _AZ-1008_ | _AZ-1010_ |
+| **Course** | _AZ-1002_ | _AZ-1003_ | _AZ-1004_ | _AZ-1006_ | _AZ-1007_ | _AZ-1008_ | _AZ-1010_ |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | **Title** | Configure secure access to your workloads using Azure networking | Secure storage for Azure Files and Azure Blob Storage | Deploy and Configure Azure Monitor | Migrate and Modernize SAP on Microsoft Azure | Deploy and administer Linux virtual machines on Azure | Administer Active Directory Domain Services | Deploy and manage Azure Arc–enabled servers |
 | **Desc** | Deep dive into IaaS network hardening in Azure. Covers Azure Firewall, vNets, Routes, DNS. | Securing Azure Storage (Blobs, Files). Identity, Permissions and Encrypting of content. | Deep dive in the monitoring services like App Insights, Log analytics, KQL and Azure dashboards | Provisioning, Configuration, HA and DR for SAP solutions in Azure. Automation. | Deep dive in administration Linux IaaS workload. Includes performance conf, backup, migration. | Provisioning and configuration AD DS in Azure. Manage objects, group policy, Identities. | Deep dive into architecture related Azure Arc-enabled services including provisioning, configuration and monitoring them with Azure Policies, Cloud Defender, Monitor and others. |

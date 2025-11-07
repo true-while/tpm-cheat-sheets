@@ -5,7 +5,7 @@ layout: default
 <small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
-| **Course** | _SC-5001_ | _SC-5002_ | _SC-5003_ | _SC-5004_ | _SC-5006_ | _SC-5007_ | _SC-5008_ |  
+| **Course** | _SC-5001_ | _SC-5002_ | _SC-5003_ | _SC-5004_ retired | _SC-5006_ | _SC-5007_ retired | _SC-5008_ |  
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | **Title** | Configure SIEM Security  Operations Using Microsoft Sentinel | Secure Azure services and workloads with Microsoft Defender | Implement Information Protection  and Data Loss Prevention by using Microsoft  Purview | Defend against cyberthreats with  Microsoft Defender XDR | Enhance security operations by using Microsoft Security Copilot | Implement retention, eDiscovery, and Communication compliance in Microsoft Purview  | Implement and govern 
 entitlement with Entitlement Management |
