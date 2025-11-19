@@ -23,7 +23,7 @@ Azure Databricks | |
 |**Intersect classes**| [DP-300](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/)|[DP-203](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)|[DP-203](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)|[DP-300](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/)| [DP-420](https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty/)| For DBA.| AI-102, AI-050, DP-203 | |
 | **Agenda** | [8 Modules](https://learn.microsoft.com/en-us/training/paths/migrate-sql-workloads-azure/) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/) | [5 Modules](https://learn.microsoft.com/en-us/training/courses/dp-3012#course-syllabus) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/develop-data-driven-app-sql-db/) | [5 Modules](https://learn.microsoft.com/en-us/training/courses/dp-3015) | [11 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/)| [7 Modules](https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/) | |
 |**Assessment**| [Yes](https://learn.microsoft.com/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/)| No | No | [Yes](https://learn.microsoft.com/credentials/applied-skills/develop-data-driven-applications-by-using-microsoft-azure-sql-database/)| No | No | No | |
-| **Updated** | | | 10/3/2025 | | | | | | |
+| **Updated** | | | 10/3/2025 | | | | | |
 ```alignment
 LCCCCCCCCCCC
 LLLLLLLLLLLL
