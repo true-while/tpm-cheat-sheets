@@ -87,7 +87,8 @@
       }
 
       $(document).ready(function () {
-        var jfile = "{{ '/assets/list.json' | relative_url }}";
+        // Append a timestamp to the JSON file URL to prevent caching
+        var jfile = "{{ '/assets/list.json' | relative_url }}?v=" + new Date().getTime();
         fetch(jfile)
           .then(response => response.json())
           .then(data => {
