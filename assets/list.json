@@ -180,6 +180,16 @@ layout: null
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
     },
     {
+        "number": "DP-3028",
+        "title": "Implement Generative AI engineering with Azure Databricks",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
+        "number": "DP-3029",
+        "title": "Work smarter with Copilot in Microsoft Fabric ",
+        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
+    },
+    {
         "number": "DP-600",
         "title": "Fabric Analytics Engineer Associate",
         "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
