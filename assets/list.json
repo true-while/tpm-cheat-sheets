@@ -3,370 +3,78 @@ layout: null
 ---
 
 [
-    
-
-    {
-        "number": "AI-3002",
-        "title": "Create an intelligent document processing solution",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },
-    {
-        "number": "AI-3003",
-        "title": "Build a natural language processing solution with Azure AI Language",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },
-    {
-        "number": "AI-3004",
-        "title": "Build an Azure AI Vision solution",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },
-    {
-        "number": "AI-3016",
-        "title": "Develop custom copilots with Azure AI Studio",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },
-    {
-        "number": "AI-3017",
-        "title": "Microsoft AI for business leaders",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },
-    {
-        "number": "AI-3018",
-        "title": "Copilot Foundations",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table-r.html"
-    },
-    {
-        "number": "AI-3019",
-        "title": "Build AI Apps with Azure Database for PostgreSQL",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },
-    {
-        "number": "AI-3022",
-        "title": "Implement AI Skills in Azure AI Search",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },
-    {
-        "number": "AI-3024",
-        "title": "Design a dream destination with AI",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table-r.html"
-    },
-    {
-        "number": "AI-3025",
-        "title": "Work Smarter with AI",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },
-    {
-        "number": "AI-3026",
-        "title": "Develop AI Agents in Azure",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"
-    },    {
-        "number": "AZ-400",
-        "title": "Designing and Implementing Microsoft DevOps Solutions",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
-    },
-    {
-        "number": "AZ-1002",
-        "title": "Configure secure access to your workloads using Azure networking",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"
-    },
-    {
-        "number": "AZ-1003",
-        "title": "Secure storage for Azure Files and Azure Blob Storage",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"
-    },
-    {
-        "number": "AZ-1004",
-        "title": "Deploy and Configure Azure Monitor",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"
-    },
-    {
-        "number": "AZ-1006",
-        "title": "Migrate and Modernize SAP on Microsoft Azure",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"
-    },
-    {
-        "number": "AZ-1007",
-        "title": "Deploy and administer Linux virtual machines on Azure",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"
-    },
-    {
-        "number": "AZ-1008",
-        "title": "Administer Active Directory Domain Services",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"
-    },
-    {
-        "number": "AZ-1010",
-        "title": "Deploy and manage Azure Arc-enabled servers",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"
-    },
-    {
-        "number": "AZ-2001",
-        "title": "Implement security through a pipeline using Azure DevOps",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"
-    },
-    {
-        "number": "AZ-2002",
-        "title": "Develop an ASP.NET Core web app that consumes an API",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"
-    },
-    {
-        "number": "AZ-2003",
-        "title": "Deploy cloud-native apps using Azure Container Apps",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"
-    },
-    {
-        "number": "AZ-2005",
-        "title": "Develop AI agents using Azure OpenAI and the Semantic Kernel SDK",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"
-    },
-    {
-        "number": "AZ-2006",
-        "title": "Automate Azure Load Testing by using GitHub Actions",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"
-    },
-    {
-        "number": "AZ-2007",
-        "title": "Accelerate app development by using GitHub Copilot",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"
-    },
-    {
-        "number": "AZ-2008",
-        "title": "DevOps foundations: The core principles and practices",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
-    },
-    {
-        "number": "DP-300",
-        "title": "Azure Database Administrator Associate",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
-    },
-    {
-        "number": "DP-3001",
-        "title": "Migrate SQL Server workloads to Azure SQL",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
-    },
-    {
-        "number": "DP-3007",
-        "title": "Train and deploy a machine learning model with Azure Machine Learning",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"
-    },
-    {
-        "number": "DP-3011",
-        "title": "Implementing a data analytics solution with Azure Databricks",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
-    },
-    {
-        "number": "DP-3012",
-        "title": "Implementing a Data Analytics Solution with Azure Synapse Analytics",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
-    },
-    {
-        "number": "DP-3014",
-        "title": "Implementing a machine learning solution with Azure Databricks",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"
-    },
-    {
-        "number": "DP-3015",
-        "title": "Develop data-driven applications by using Azure SQL Database",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
-    },
-    {
-        "number": "DP-3020",
-        "title": "Getting Started with Cosmos DB NoSQL Development",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
-    },
-    {
-        "number": "DP-3021",
-        "title": "Configure and migrate to Azure Database for PostgreSQL",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
-    },
-    {
-        "number": "DP-3028",
-        "title": "Implement Generative AI engineering with Azure Databricks",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
-    },
-    {
-        "number": "DP-3029",
-        "title": "Work smarter with Copilot in Microsoft Fabric ",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"
-    },
-    {
-        "number": "DP-600",
-        "title": "Fabric Analytics Engineer Associate",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
-    },
-    {
-        "number": "DP-601",
-        "title": "Implement a Lakehouse with Microsoft Fabric",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"
-    },
-    {
-        "number": "DP-602",
-        "title": "Implement a data warehouse with Microsoft Fabric",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"
-    },
-    {
-        "number": "DP-603",
-        "title": "Implement Real-Time Intelligence with Microsoft Fabric",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"
-    },
-    {
-        "number": "DP-604",
-        "title": "Implement data science and machine learning solution for AI with Microsoft Fabric",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"
-    },
-    {
-        "number": "DP-605",
-        "title": "Develop reports with Microsoft Power BI",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"
-    },
-    {
-        "number": "DP-700",
-        "title": "Fabric Data Engineer Associate",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
-    },
-    {
-        "number": "DP-203",
-        "title": "Azure Data Engineer Associate",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"
-    },
-    {
-        "number": "GH-900",
-        "title": "GitHub Foundations",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
-    },
-{
-        "number": "GH-100",
-        "title": "GitHub Fundamentals",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
-    },
-    {
-        "number": "GH-200",
-        "title": "Automate your workflow with GitHub Actions",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
-    },
-    {
-        "number": "GH-300",
-        "title": "GitHub Copilot Fundamentals",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
-    },
-    {
-        "number": "GH-500",
-        "title": "GitHub Advanced Security",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"
-    },
-    {
-        "number": "MS-4002",
-        "title": "Prepare security and compliance to support Microsoft 365 Copilot",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4004",
-        "title": "Empower your workforce with Copilot for M365 Use Cases",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"
-    },
-    {
-        "number": "MS-4005",
-        "title": "Craft effective prompts for Microsoft Copilot for Microsoft 365",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"
-    },
-    {
-        "number": "MS-4007",
-        "title": "Microsoft 365 Copilot User Enablement Specialist",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4008",
-        "title": "Microsoft Copilot for Microsoft 365: Executive Immersion Experience",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4009",
-        "title": "Extend Microsoft Copilot for Microsoft 365 with Copilot Studio",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"
-    },
-    {
-        "number": "MS-4010",
-        "title": "Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4014",
-        "title": "Build a foundation to build AI agents and extend Microsoft 365 Copilot",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4017",
-        "title": "Manage and extend Microsoft 365 Copilot",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4018",
-        "title": "Draft, analyze, and present using Microsoft 365 Copilot",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4019",
-        "title": "Transform your everyday business processes with agents",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4021",
-        "title": "Microsoft 365 Copilot Chat Interactive Experience for Executives",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4022",
-        "title": "Extend Microsoft 365 copilot in copilot studio",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "MS-4023",
-        "title": "Explore Microsoft 365 Copilot Chat",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"
-    },
-    {
-        "number": "PL-300",
-        "title": "Power BI Data Analyst",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/pp-table.html"
-    },
-    {
-        "number": "PL-7008",
-        "title": "Create agents in Microsoft Copilot",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/pp-table.html"
-    },
-    {
-        "number": "SC-5001",
-        "title": "Configure SIEM Security Operations Using Microsoft Sentinel",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"
-    },
-    {
-        "number": "SC-5002",
-        "title": "Secure Azure services and workloads with Microsoft Defender",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"
-    },
-    {
-        "number": "SC-5003",
-        "title": "Implement Information Protection and Data Loss Prevention by using Microsoft Purview",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"
-    },
-    {
-        "number": "SC-5004",
-        "title": "Defend against cyberthreats with Microsoft Defender XDR",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"
-    },
-    {
-        "number": "SC-5006",
-        "title": "Enhance security operations by using Microsoft Security Copilot",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"
-    },
-    {
-        "number": "SC-5007",
-        "title": "Implement retention, eDiscovery, and Communication compliance in Microsoft Purview",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"
-    },
-    {
-        "number": "SC-5008",
-        "title": "Implement and govern",
-        "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"
-    }
+    {"number": "AI-3002", "title": "Create an intelligent document processing solution", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AI-3003", "title": "Build a natural language processing solution with Azure AI Language", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AI-3004", "title": "Build an Azure AI Vision solution", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AI-3016", "title": "Develop custom copilots with Azure AI Studio", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AI-3017", "title": "Microsoft AI for business leaders", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AI-3018", "title": "Copilot Foundations", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table-r.html"},
+    {"number": "AI-3019", "title": "Build AI Apps with Azure Database for PostgreSQL", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AI-3022", "title": "Implement AI Skills in Azure AI Search", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AI-3024", "title": "Design a dream destination with AI", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table-r.html"},
+    {"number": "AI-3025", "title": "Work Smarter with AI", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AI-3026", "title": "Develop AI Agents in Azure", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
+    {"number": "AZ-1002", "title": "Configure secure access to your workloads using Azure networking", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"},
+    {"number": "AZ-1003", "title": "Secure storage for Azure Files and Azure Blob Storage", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"},
+    {"number": "AZ-1004", "title": "Deploy and Configure Azure Monitor", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"},
+    {"number": "AZ-1006", "title": "Migrate and Modernize SAP on Microsoft Azure", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"},
+    {"number": "AZ-1007", "title": "Deploy and administer Linux virtual machines on Azure", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"},
+    {"number": "AZ-1008", "title": "Administer Active Directory Domain Services", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"},
+    {"number": "AZ-1010", "title": "Deploy and manage Azure Arc-enabled servers", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/admin-table.html"},
+    {"number": "AZ-2001", "title": "Implement security through a pipeline using Azure DevOps", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"},
+    {"number": "AZ-2002", "title": "Develop an ASP.NET Core web app that consumes an API", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"},
+    {"number": "AZ-2003", "title": "Deploy cloud-native apps using Azure Container Apps", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"},
+    {"number": "AZ-2005", "title": "Develop AI agents using Azure OpenAI and the Semantic Kernel SDK", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"},
+    {"number": "AZ-2006", "title": "Automate Azure Load Testing by using GitHub Actions", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"},
+    {"number": "AZ-2007", "title": "Accelerate app development by using GitHub Copilot", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dev-table.html"},
+    {"number": "AZ-2008", "title": "DevOps foundations: The core principles and practices", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
+    {"number": "AZ-400", "title": "Designing and Implementing Microsoft DevOps Solutions", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
+    {"number": "DP-203", "title": "Azure Data Engineer Associate", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"},
+    {"number": "DP-300", "title": "Azure Database Administrator Associate", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"},
+    {"number": "DP-3001", "title": "Migrate SQL Server workloads to Azure SQL", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-3007", "title": "Train and deploy a machine learning model with Azure Machine Learning", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"},
+    {"number": "DP-3011", "title": "Implementing a data analytics solution with Azure Databricks", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-3012", "title": "Implementing a Data Analytics Solution with Azure Synapse Analytics", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-3014", "title": "Implementing a machine learning solution with Azure Databricks", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"},
+    {"number": "DP-3015", "title": "Develop data-driven applications by using Azure SQL Database", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-3020", "title": "Getting Started with Cosmos DB NoSQL Development", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-3021", "title": "Configure and migrate to Azure Database for PostgreSQL", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-3028", "title": "Implement Generative AI engineering with Azure Databricks", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-3029", "title": "Work smarter with Copilot in Microsoft Fabric ", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-600", "title": "Fabric Analytics Engineer Associate", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"},
+    {"number": "DP-601", "title": "Implement a Lakehouse with Microsoft Fabric", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"},
+    {"number": "DP-602", "title": "Implement a data warehouse with Microsoft Fabric", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"},
+    {"number": "DP-603", "title": "Implement Real-Time Intelligence with Microsoft Fabric", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"},
+    {"number": "DP-604", "title": "Implement data science and machine learning solution for AI with Microsoft Fabric", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"},
+    {"number": "DP-605", "title": "Develop reports with Microsoft Power BI", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"},
+    {"number": "DP-700", "title": "Fabric Data Engineer Associate", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-arb.html"},
+    {"number": "GH-100", "title": "GitHub Fundamentals", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
+    {"number": "GH-200", "title": "Automate your workflow with GitHub Actions", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
+    {"number": "GH-300", "title": "GitHub Copilot Fundamentals", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
+    {"number": "GH-500", "title": "GitHub Advanced Security", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
+    {"number": "GH-900", "title": "GitHub Foundations", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
+    {"number": "MD-4011", "title": "Enhance endpoint security with Intune and Copilot for Security", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"},
+    {"number": "MS-4002", "title": "Prepare security and compliance to support Microsoft 365 Copilot", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4004", "title": "Empower your workforce with Copilot for M365 Use Cases", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"},
+    {"number": "MS-4005", "title": "Craft effective prompts for Microsoft Copilot for Microsoft 365", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"},
+    {"number": "MS-4007", "title": "Microsoft 365 Copilot User Enablement Specialist", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4008", "title": "Microsoft Copilot for Microsoft 365: Executive Immersion Experience", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4009", "title": "Extend Microsoft Copilot for Microsoft 365 with Copilot Studio", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table-r.html"},
+    {"number": "MS-4010", "title": "Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4014", "title": "Build a foundation to build AI agents and extend Microsoft 365 Copilot", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4017", "title": "Manage and extend Microsoft 365 Copilot", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4018", "title": "Draft, analyze, and present using Microsoft 365 Copilot", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4019", "title": "Transform your everyday business processes with agents", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4021", "title": "Microsoft 365 Copilot Chat Interactive Experience for Executives", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4022", "title": "Extend Microsoft 365 copilot in copilot studio", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "MS-4023", "title": "Explore Microsoft 365 Copilot Chat", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
+    {"number": "PL-300", "title": "Power BI Data Analyst", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/pp-table.html"},
+    {"number": "PL-7008", "title": "Create agents in Microsoft Copilot", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/pp-table.html"},
+    {"number": "SC-5001", "title": "Configure SIEM Security Operations Using Microsoft Sentinel", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"},
+    {"number": "SC-5002", "title": "Secure Azure services and workloads with Microsoft Defender", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"},
+    {"number": "SC-5003", "title": "Implement Information Protection and Data Loss Prevention by using Microsoft Purview", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"},
+    {"number": "SC-5004", "title": "Defend against cyberthreats with Microsoft Defender XDR", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"},
+    {"number": "SC-5006", "title": "Enhance security operations by using Microsoft Security Copilot", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"},
+    {"number": "SC-5007", "title": "Implement retention, eDiscovery, and Communication compliance in Microsoft Purview", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"},
+    {"number": "SC-5008", "title": "Implement and govern", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"}
 ]
