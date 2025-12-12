@@ -25,29 +25,29 @@ Check out other copilot classes:  [`AI-3024`](../docs/ai-table-r.html?c=AI-3024)
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/) | No | No | No  | No | No | No | No | No |
 | **Comments** | New class, coming up, but it will be handle by a different team | | Updates coming in November |   | Replace  MS-4006 | License provided with Labs  | | In-person | Scaled Webinar Motion for accounts on the CHAI list. |
 ```alignment
-LCCCCCCCCCC
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
+LCCCCCCCCC
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
 ```valign
-TTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
+TTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
 ```
 
 
