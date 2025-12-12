@@ -21,7 +21,7 @@ Check out other copilot classes:  [`AI-3024`](../docs/ai-table.html), [`AI-3025`
 |**Pre-req class** |   |  |  | | | Co-Pilot studio, No code exp |
 | **Pre-req knowledge** |  | MS office apps. | BYOS, Co-Pilot studio | M365 (BYOS) | M365 (NO BYOS) | MS365 (BYOS) |
 | **Intersect classes** |  |  |  |  | Subset of MS-4008 | MS-4009 |
-| **Agenda** | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4004) | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4005) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-copilot-microsoft-365-copilot-studio/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-web-based-interactive-experience-executives/) | (5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-365-copilot-studio/) |
+| **Agenda** | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4004) | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4005) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-copilot-microsoft-365-copilot-studio/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-web-based-interactive-experience-executives/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-365-copilot-studio/) |
 | **Applied Skills** | No | No  | No | No  | No | No |
 | **Comments** | ESI 1-day discontinued |   |     | |    |
 
