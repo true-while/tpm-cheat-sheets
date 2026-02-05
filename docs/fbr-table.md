@@ -23,6 +23,7 @@ Check out other Data Platform related classes [`DP-604`](../docs/ml-table.html?c
 | **Agenda** | [7 Modules](https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/) | [4 Modules](https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/)|[7 Modules](https://learn.microsoft.com/en-us/training/paths/develop-dynamic-reports-microsoft-power-bi/)|
 |**Assessment**| [Yes](https://learn.microsoft.com/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)| [Yes](https://learn.microsoft.com/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/)| [Yes](https://learn.microsoft.com/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/)| No |
 | **Updated** |  |  | | 10/3/2025 | 
+| **Type** | Frontier | Frontier | Frontier | Frontier |
 ```alignment
 LCCCC
 LLLLL
@@ -36,7 +37,7 @@ LLLLL
 LLLLL
 LLLLL
 LLLLL
-LCCCC
+LLLLL
 ```valign
 TTTTT
 MTTTT

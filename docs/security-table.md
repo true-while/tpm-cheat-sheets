@@ -17,6 +17,7 @@ layout: default
 | **Intersect classes** | AZ-500, SC-200 | AZ-500 | SC-400, DP-203 | SC-200 | SC-200 | SC-401 | SC-300, AZ-500 | MD-101 |
 | **Agenda** | [6 Modules](https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/) | [8 Modules](https://learn.microsoft.com/en-us/training/paths/secure-azure-services-workloads-defender-cloud/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/purview-implement-information-protection-data-loss-prevention/) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/sc-5004-defend-against-cyberthreats-defender/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/) | [4 Modules](https://learn.microsoft.com/en-us/training/paths/purview-implement-retention-ediscovery-communication-compliance/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/configure-manage-entitlement-microsoft-entra-id/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/enhance-endpoint-security-microsoft-intune-copilot/) |
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-information-protection-and-data-loss-prevention-by-using-microsoft-purview/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/) | No | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-retention-ediscovery-and-communication-compliance-in-microsoft-purview/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-identities-and-access-using-microsoft-entra/) | NO |
+| **Type** | Retiring | Retiring | Retired | Retired | Retiring | Retired | Retiring | Frontier |
 ```alignment
 LCCCCCCCC
 LLLLLLLLL
@@ -29,8 +30,10 @@ LLLLLLLLL
 LLLLLLLLL
 LLLLLLLLL
 LLLLLLLLL
+LLLLLLLLL
 ```valign
 TTTTTTTTT
+MTTTTTTTT
 MTTTTTTTT
 MTTTTTTTT
 MTTTTTTTT

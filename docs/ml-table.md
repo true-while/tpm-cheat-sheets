@@ -22,4 +22,29 @@ Check out [`data platform classes`](../docs/dp-table.html)
 | **Intersect classes** | DP-100 (1 day) | DP-203 (Databricks intro) | DP-100 (ML theory) |
 | **Agenda** | [M5](https://learn.microsoft.com/en-us/training/paths/train-deploy-machine-learning-model/)| [8 Modules](https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/implement-data-science-machine-learning-fabric/) |
 | **Applied Skills** | [Link](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/) | No  | [Link](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric/) |
+| **Type** | Retired | Frontier | Frontier |
+```alignment
+LCCC
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+LLLL
+```valign
+TTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
+MTTT
 ```

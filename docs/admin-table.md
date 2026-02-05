@@ -17,6 +17,7 @@ layout: default
 | **Intersect classes** | AZ-500, AZ-700 | AZ-500, AZ-104 | AZ-104 | AZ-120 | AZ-104 | AZ-800, AZ-801 | AZ-305 |
 | **Agenda** | [M1](https://learn.microsoft.com/en-us/training/modules/configure-virtual-networks/), [M2](https://learn.microsoft.com/en-us/training/modules/configure-vnet-peering/), [M3](https://learn.microsoft.com/en-us/training/modules/control-network-traffic-flow-with-routes/), [M4](https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/), [M5](https://learn.microsoft.com/en-us/training/modules/introduction-azure-firewall/) | [M1](https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/), [M2](https://learn.microsoft.com/en-us/training/modules/configure-blob-storage/), [M3](https://learn.microsoft.com/en-us/training/modules/configure-storage-security/), [M4](https://learn.microsoft.com/en-us/training/modules/secure-and-isolate-with-nsg-and-service-endpoints/), [M5](https://learn.microsoft.com/en-us/training/modules/security-storage/) | [M1](https://learn.microsoft.com/en-us/training/modules/create-configure-log-analytics-workspace/), [M2](https://learn.microsoft.com/en-us/training/modules/configure-monitoring-applications/6-knowledge-check), [M3](https://learn.microsoft.com/en-us/training/modules/configure-monitoring-virtual-machines/5-knowledge-check), [M4](https://learn.microsoft.com/en-us/training/modules/configure-monitoring-virtual-networks/6-knowledge-check), [M5](https://learn.microsoft.com/en-us/training/modules/configure-alerts-responses/7-knowledge-check) | [All modules](https://learn.microsoft.com/en-us/training/courses/az-1006) | [M1](https://learn.microsoft.com/en-us/training/modules/configure-virtual-machines/), [M2](https://learn.microsoft.com/en-us/training/modules/add-and-size-disks-in-azure-virtual-machines/), [M3](https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/), [M4](https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/),[M5](https://learn.microsoft.com/en-us/training/modules/manage-virtual-machines-with-azure-cli/), [M6](https://learn.microsoft.com/en-us/training/modules/implement-access-management-for-azure-resources/), [M7](https://learn.microsoft.com/en-us/training/modules/configure-azure-files-file-sync/), [M8](https://learn.microsoft.com/en-us/training/modules/copy-blobs-using-azcopy/) | [5 modules](https://learn.microsoft.com/en-us/training/paths/administer-active-directory-domain-services/) | [7 modules](https://learn.microsoft.com/en-us/training/paths/deploy-manage-azure-arc-enabled-servers/) |
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/) | No  | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-administer-linux-virtual-machines-on-microsoft-azure/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/)  | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-manage-microsoft-azure-arc-enabled-servers/) |
+| **Type** | Retired | Retired | Retired | Retired | Retired | Retired | Retired |
 
 ```alignment
 LCCCCCCC
@@ -30,8 +31,10 @@ LLLLLLLL
 LLLLLLLL
 LLLLLLLL
 LLLLLLLL
+LLLLLLLL
 ```valign
 TTTTTTTT
+MTTTTTTT
 MTTTTTTT
 MTTTTTTT
 MTTTTTTT

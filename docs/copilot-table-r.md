@@ -24,7 +24,7 @@ Check out other copilot classes:  [`AI-3024`](../docs/ai-table.html), [`AI-3025`
 | **Agenda** | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4004) | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4005) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-copilot-microsoft-365-copilot-studio/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-for-microsoft-365-executive-challenge/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-web-based-interactive-experience-executives/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-365-copilot-studio/) |
 | **Applied Skills** | No | No  | No | No  | No | No |
 | **Comments** | ESI 1-day discontinued |   |     | |    |
-
+| **Type** | Retired | Retired | Retired | Retired | Retired | Retired | 
 ```alignment
 LCCCCCC
 LLLLLLL
@@ -36,8 +36,12 @@ LLLLLLL
 LLLLLLL
 LLLLLLL
 LLLLLLL
+LLLLLLL
+LLLLLLL
+LLLLLLL
 ```valign
 TTTTTTT
+MTTTTTT
 MTTTTTT
 MTTTTTT
 MTTTTTT

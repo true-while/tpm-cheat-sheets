@@ -20,29 +20,32 @@ Check out other GitHub related class [`AZ-2007`](../docs/dev-table.html?c=AZ-200
 | **Pre-req class** | - | GH-900 | GH-900 | GH-900 | GH-900, GH-100 | - | AZ-204 or AZ-104 |
 | **Agenda** | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-900t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-100t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-200t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-300t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-500t00) | [5 modules](https://learn.microsoft.com/en-us/training/paths/devops-foundations-core-principles-practices/) | [5 LP](https://learn.microsoft.com/en-us/training/courses/az-400t00) |
 | **Updated** | Nov convert to 2 days |  |  |  |  | 11/14/2025 |  |
+| **Type** | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier |
 ```alignment
 LCCCCCCCC
-LLLLLLLLL
-LLLLLLLLL
-LLLLLLLLL
-LLLLLLLLL
-LLLLLLLLL
-LLLLLLLLL
-LLLLLLLLL
-LLLLLLLLL
-LLLLLLLLL
-LLLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
+LLLLLLLL
 ```valign
-TTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
-MTTTTTTTT
+TTTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
+MTTTTTT
 ```
 

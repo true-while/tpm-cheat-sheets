@@ -24,6 +24,7 @@ Check out other copilot classes:  [`AI-3024`](../docs/ai-table-r.html?c=AI-3024)
 | **Agenda** | [7 Modules](https://learn.microsoft.com/en-us/training/paths/prepare-security-compliance-support-microsoft-365-copilot/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/explore-how-drive-adoption-microsoft-copilot-m365/) | [2 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4010) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/build-foundation-extend-microsoft-365-copilot/) | [8 Modules](https://learn.microsoft.com/en-us/training/courses/ms-4017) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/draft-analyze-present-microsoft-365-copilot/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/implement-no-code-copilot-agents-microsoft-365-sharepoint/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-copilot-web-based-interactive-experience-executives/) | [3 Modules](https://learn.microsoft.com/en-us/training/paths/explore-microsoft-365-copilot-business-chat/) |
 | **Applied Skills** | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/prepare-security-and-compliance-to-support-microsoft-365-copilot/) | No | No | No  | No | No | No | No | No |
 | **Comments** | New class, coming up, but it will be handle by a different team | | Updates coming in November |   | Replace  MS-4006 | License provided with Labs  | | In-person | Scaled Webinar Motion for accounts on the CHAI list. |
+| **Type** | Frontier | Retiring | Retiring | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier |
 ```alignment
 LCCCCCCCCC
 LLLLLLLLLL
@@ -35,8 +36,12 @@ LLLLLLLLLL
 LLLLLLLLLL
 LLLLLLLLLL
 LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
 ```valign
 TTTTTTTTTT
+MTTTTTTTTT
 MTTTTTTTTT
 MTTTTTTTTT
 MTTTTTTTTT

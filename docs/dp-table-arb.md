@@ -23,4 +23,5 @@ Advanced Role-Based (ARB) courses (4-days) focused on Data Engineering, Data Ana
 |**MS Learn**|[All modules](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?ocid=fabric25_iamready_tc_azdata&practice-assessment-type=certification)|[All modules](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification)|[All modules](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/?practice-assessment-type=certification)|[All Modules](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification)|
 |**Assessment**|Schedule-only|Schedule-only|Schedule-only|Schedule-only|
 |**Comment**||||Subject to decommission|
+|**Type**|Frontier|Frontier|Frontier|Retired|
 ```
