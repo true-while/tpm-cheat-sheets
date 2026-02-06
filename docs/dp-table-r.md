@@ -22,9 +22,8 @@ Check out other Data Platform related classes [`ARB`](../docs/dp-table-arb.html)
 | **Pre-requisites** | DP-900, DP-080 | DP-900, DP-080, PL-900 | DP-900 | DP-900, DP-080 | understanding the concept of Modern data warehouse (MDW), Big data, Lakehouse architecture |
 | **Intersect classes** | [DP-300](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/) | [DP-203](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/) | [DP-420](https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty/) | For DBA. | DP-900 |
 | **Agenda** | [8 Modules](https://learn.microsoft.com/en-us/training/paths/migrate-sql-workloads-azure/) | [5 Modules](https://learn.microsoft.com/en-us/training/courses/dp-3012#course-syllabus) | [5 Modules](https://learn.microsoft.com/en-us/training/courses/dp-3015) | [11 Modules](https://learn.microsoft.com/en-us/training/paths/microsoft-learn-azure-database-for-postgresql/) | [All Modules](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification) |
-| **Labs** | [8 Labs](https://microsoftlearning.github.io/mslearn-sql-migration/) | [6 Labs](https://microsoftlearning.github.io/dp-203-azure-data-engineer/) | [9 Labs](https://github.com/MicrosoftLearning/dp-420-cosmos-db-dev) | [11 Labs](https://microsoftlearning.github.io/mslearn-postgresql/) | 29 |
+| **Labs** | [8 Labs](https://microsoftlearning.github.io/mslearn-sql-migration/) | [6 Labs](https://microsoftlearning.github.io/dp-203-azure-data-engineer/) | [9 Labs](https://github.com/MicrosoftLearning/dp-420-cosmos-db-dev) | [11 Labs](https://microsoftlearning.github.io/mslearn-postgresql/) | [old](https://github.com/solliancenet/dp-203-v2) |
 | **Assessment** | [Yes](https://learn.microsoft.com/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/) | No | No | No | No |
-| **Updated** | | 10/3/2025 | | |  |
 | **Type** | Retired | Retired | Retired | Retired | Retired |
 ```alignment
 LCCCCC
@@ -39,10 +38,8 @@ LLLLLL
 LLLLLL
 LLLLLL
 LLLLLL
-LLLLLL
 ```valign
 TTTTTT
-MTTTTT
 MTTTTT
 MTTTTT
 MTTTTT

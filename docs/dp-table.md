@@ -22,7 +22,6 @@ Check out other Data Platform related classes [`ML`](../docs/ml-table.html), [`A
 | **Agenda** | [6 Modules](https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/develop-data-driven-app-sql-db/) | [7 Modules](https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/) | [6 Modules](https://learn.microsoft.com/en-us/training/courses/dp-3029) |
 |**Labs**|[6 Labs](https://microsoftlearning.github.io/mslearn-databricks/)|[5 Labs](https://microsoftlearning.github.io/mslearn-sql-dev/)| [6 AI labs](https://github.com/MicrosoftLearning/mslearn-databricks/tree/main/Instructions/Exercises) | [4 Copilot labs](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs) |
 |**Assessment**| No | [Yes](https://learn.microsoft.com/credentials/applied-skills/develop-data-driven-applications-by-using-microsoft-azure-sql-database/)| No | No |
-| **Updated** | | | | |
 | **Type** | Frontier | Retiring | Frontier | Frontier |
 ```alignment
 LCCCC
@@ -37,10 +36,8 @@ LLLLL
 LLLLL
 LLLLL
 LLLLL
-LLLLL
 ```valign
 TTTTT
-MTTTT
 MTTTT
 MTTTT
 MTTTT
