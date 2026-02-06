@@ -5,7 +5,7 @@ layout: default
 <small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 
-**One day** classes compared by technology:
+**One day & ARB** classes compared by technology:
 
 - [AI (AI series)](./docs/ai-table.html)
 - [ML (DP series)](./docs/ml-table.html)
@@ -19,10 +19,6 @@ layout: default
 - [Fabric (DP series)](./docs/fbr-table.html) 
 - [Modern (AB series)](./docs/mod-table.html)
    
-**ARB** classes compared by technology:
-
-- [Data](./docs/dp-table-arb.html)
-
 
 **Retired** classes
 
