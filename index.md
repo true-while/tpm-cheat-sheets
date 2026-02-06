@@ -17,7 +17,8 @@ layout: default
 - [Security (SC series)](./docs/security-table.html)   
 - [Power Platform (PL series)](./docs/security-table.html)  
 - [Fabric (DP series)](./docs/fbr-table.html) 
-     
+- [Modern (AB series)](./docs/mod-table.html)
+   
 **ARB** classes compared by technology:
 
 - [Data](./docs/dp-table-arb.html)
@@ -27,6 +28,6 @@ layout: default
 
 - [Copilot (MS series)](./docs/copilot-table-r.html)
 - [AI (AI series)](./docs/ai-table-r.html)
-
-
+- [Data (DP series)](./docs/dp-table-r.html)
+- [Security (SC series)](./docs/security-table-r.html)  
 
