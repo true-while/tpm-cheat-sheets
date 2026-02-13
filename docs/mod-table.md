@@ -9,7 +9,7 @@ layout: default
 | --- | --- | --- | --- | --- |
 | **Title** | Introduction to M365 and AI admin | Transform business workflows with generative AI | Drive AI transformation in your organization | Architecting agentic AI business solutions architect |
 | **Desc** | Introduces learners to M365 Copilot, and AI-powered agents, covering foundational concepts, services, and administrative controls. Includes automate tasks, enhance collaboration, and personalize user experiences across M365 ecosystem. |Teaches learners apply generative AI to streamline daily tasks, focuses on real‑world use cases of M365 Copilot enhance decision‑making, and improve productivity. Code free experience. | Teaches business leaders how to guide AI transformation across an organization by identifying high‑impact AI opportunities and aligning them with strategic business goals. | |
-| **Duration** | 1 day | 1 day | 1 days | 1 day |
+| **Duration** | 1 day | 1 day | 1 days | 4 day |
 | **Audience** | Beginners | Business Users | Business Leaders | TBD |
 | **Pre-req class** |  |  |  | TBD |
 | **Pre-requisites** |  | Office Apps |  | TBD |
