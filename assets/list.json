@@ -7,6 +7,7 @@ layout: null
     {"number": "AB-730", "title": "Transform business workflows with generative AI", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/mod-table.html"},
     {"number": "AB-731", "title": "Drive AI transformation in your organization", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/mod-table.html"},
     {"number": "AB-900", "title": "Introduction to M365 and AI admin", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/mod-table.html"},
+    {"number": "AI-901", "title": "Introduction to AI in Azure", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
     {"number": "AI-3002", "title": "Create an intelligent document processing solution", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
     {"number": "AI-3003", "title": "Build a natural language processing solution with Azure AI Language", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
     {"number": "AI-3004", "title": "Build an Azure AI Vision solution", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
