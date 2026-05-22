@@ -12,43 +12,43 @@ Check out other [`retired`](../docs/ai-table-r.html) classes
 <small>Last Modified: {{ site.file_data[current_file] }}</small>
 
 ```table
-| **Course** | AI-901 | _AI-103_ | _AI-300_ | _AI-3002_ | _AI-3003_ | _AI-3004_ | _AI-3016_ | _AI-3022_ | _AI-3025_ | _AI-3026_ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Title** | Introduction to AI in Azure | Azure AI App and Agent Developer | Operationalize machine learning and generative AI solutions | Create an intelligent document processing solution | Build a natural language processing solution with Azure AI Language | Build an Azure AI Vision solution | Develop custom copilots with Azure AI Studio | Implement AI Skills in Azure AI Search | Work Smarter with AI | Develop AI Agents in Azure |
-| **Desc** | Introduces core AI concepts and shows how to build AI apps and agents using Azure and AI Foundry, covering workloads such as generative AI, natural language, speech, vision, and information extraction. | Teaches devs how to build, deploy, and manage production‑ready AI applications on Azure using Foundry, including generative AI, RAG pipelines, AI agents and multimodal solutions (vision, speech, and language) that integrate tools, data sources, and workflows into intelligent, agent‑driven systems | Teaches how to operationalize and manage end‑to‑end machine learning and generative AI solutions on Azure using MLOps and GenAIOps practices, including training, deploying, automating, monitoring, and optimizing models and AI agents for production. | Processing documents forms with custom document intelligent models. | Focused on the Language services including Text Analysis, QnA and Speech recognition and synthesis. | Focused on the AI Vision services including Image recognition, Face API and Custom vision. | Focused on the AI Studio (not Copilot studio) and leverage Open AI models and RAG for building custom applications to empower users like co-pilots. | Deep dive in Azure AI Search. Custom skills and knowledge store. Not related to generative AI. | Focused on using Microsoft Copilot and developing skills of using prompts in business scenarios. |  AI Foundry agents dev class, introduces building agents for various tasks: data analyzing, support tickets processing, incident management, etc. |   
-| **Duration** | 1-day | 4-day | 4-day | 1-day | 1-day | 1-day | 1-day | 1-day | 3-hours | 1-day |
-| **Audience** | Tech aware | Devs, AI Engineers | ML,AI Engineers | Devs, AI Engineers | Devs, AI Engineers | Devs, AI Engineers | Devs. AI Engineers | Devs, AI Engineers | Business users (no tech req) | Devs, AI Engineer |
-| **Pre-req class** | No | AI-901 | No | AI-901 | AI-901 | AI-901 | AI-901 | No  | AZ-901 |  |
-| **Pre-requisites** | No | Python or C#  | Python, GitHub | Python or C# | Python or C# | Python or C# | Python | Azure AI Studio, Python or C# | MS Office (BYOL) or Web | Python |
-| **Intersect classes** | No | A few AI 1-day | DP-604, AI-103 | AI-103 (~1/2 day) | AI-103 (~one day) | AI-103 (~one day) | AI-103 (~2/3 day), AI-050 (full) | AI-103 (1/2 day) | MS-4005 | AI-3016 (1/5), AZ-2005 (1/4) |
-| **Agenda** | [12 Modules](https://learn.microsoft.com/en-us/training/courses/ai-901t00) | [4 LP](https://learn.microsoft.com/en-us/training/courses/ai-103t00) | [2 LP](https://learn.microsoft.com/en-us/training/courses/ai-300t00) | [3 modules](https://learn.microsoft.com/en-us/training/paths/extract-data-from-forms-document-intelligence/) | [9 modules](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [7 modules](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | [8 modules](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | [8 modules](https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/) | [1 module](https://learn.microsoft.com/en-us/training/modules/explore-microsoft-copilot-business-users/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) |
-| **Labs** | [5 Labs](https://microsoftlearning.github.io/mslearn-ai-concepts/) | [16 Labs](https://github.com/MicrosoftLearning/mslearn-ai-agents) | [8 Labs](https://microsoftlearning.github.io/mslearn-mlops/) | [5 Labs](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence) | [8 Labs](https://github.com/MicrosoftLearning/mslearn-ai-language) | [7 Labs](https://github.com/MicrosoftLearning/mslearn-ai-vision) | [8 Labs](https://github.com/MicrosoftLearning/mslearn-ai-studio) | 5 Labs | 2 Labs (license provided) | [5 labs](https://microsoftlearning.github.io/mslearn-ai-agents/) |
-| **Applied Skills** | No | No | No | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/build-azure-ai-vision-solution/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | No | No | No |
+| **Course** | AI-901 | _AI-103_ | _AI-3002_ | _AI-3003_ | _AI-3004_ | _AI-3016_ | _AI-3022_ | _AI-3025_ | _AI-3026_ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Title** | Introduction to AI in Azure | Azure AI App and Agent Developer | Create an intelligent document processing solution | Build a natural language processing solution with Azure AI Language | Build an Azure AI Vision solution | Develop custom copilots with Azure AI Studio | Implement AI Skills in Azure AI Search | Work Smarter with AI | Develop AI Agents in Azure |
+| **Desc** | Introduces core AI concepts and shows how to build AI apps and agents using Azure and AI Foundry, covering workloads such as generative AI, natural language, speech, vision, and information extraction. | Teaches devs how to build, deploy, and manage production‑ready AI applications on Azure using Foundry, including generative AI, RAG pipelines, AI agents and multimodal solutions (vision, speech, and language) that integrate tools, data sources, and workflows into intelligent, agent‑driven systems | Processing documents forms with custom document intelligent models. | Focused on the Language services including Text Analysis, QnA and Speech recognition and synthesis. | Focused on the AI Vision services including Image recognition, Face API and Custom vision. | Focused on the AI Studio (not Copilot studio) and leverage Open AI models and RAG for building custom applications to empower users like co-pilots. | Deep dive in Azure AI Search. Custom skills and knowledge store. Not related to generative AI. | Focused on using Microsoft Copilot and developing skills of using prompts in business scenarios. |  AI Foundry agents dev class, introduces building agents for various tasks: data analyzing, support tickets processing, incident management, etc. |   
+| **Duration** | 1-day | 4-day | 1-day | 1-day | 1-day | 1-day | 1-day | 3-hours | 1-day |
+| **Audience** | Tech aware | Devs, AI Engineers | Devs, AI Engineers | Devs, AI Engineers | Devs, AI Engineers | Devs. AI Engineers | Devs, AI Engineers | Business users (no tech req) | Devs, AI Engineer |
+| **Pre-req class** | No | AI-901 | AI-901 | AI-901 | AI-901 | AI-901 | No  | AZ-901 |  |
+| **Pre-requisites** | No | Python or C#  | Python or C# | Python or C# | Python or C# | Python | Azure AI Studio, Python or C# | MS Office (BYOL) or Web | Python |
+| **Intersect classes** | No | A few AI 1-day | AI-103 (~1/2 day) | AI-103 (~one day) | AI-103 (~one day) | AI-103 (~2/3 day), AI-050 (full) | AI-103 (1/2 day) | MS-4005 | AI-3016 (1/5), AZ-2005 (1/4) |
+| **Agenda** | [12 Modules](https://learn.microsoft.com/en-us/training/courses/ai-901t00) | [4 LP](https://learn.microsoft.com/en-us/training/courses/ai-103t00) | [3 modules](https://learn.microsoft.com/en-us/training/paths/extract-data-from-forms-document-intelligence/) | [9 modules](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [7 modules](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | [8 modules](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | [8 modules](https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/) | [1 module](https://learn.microsoft.com/en-us/training/modules/explore-microsoft-copilot-business-users/) | [5 Modules](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) |
+| **Labs** | [5 Labs](https://microsoftlearning.github.io/mslearn-ai-concepts/) | [16 Labs](https://github.com/MicrosoftLearning/mslearn-ai-agents) | [5 Labs](https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence) | [8 Labs](https://github.com/MicrosoftLearning/mslearn-ai-language) | [7 Labs](https://github.com/MicrosoftLearning/mslearn-ai-vision) | [8 Labs](https://github.com/MicrosoftLearning/mslearn-ai-studio) | 5 Labs | 2 Labs (license provided) | [5 labs](https://microsoftlearning.github.io/mslearn-ai-agents/) |
+| **Applied Skills** | No | No | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/build-azure-ai-vision-solution/) | [Yes](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | No | No | No |
 | **Type** | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier |
 ```alignment
-LCCCCCCCCCC
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
-LLLLLLLLLLL
+LCCCCCCCCC
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
+LLLLLLLLLL
 ```valign
-TTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
-MTTTTTTTTTT
+TTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
+MTTTTTTTTT
 ```
 
