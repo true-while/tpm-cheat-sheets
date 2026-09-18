@@ -7,6 +7,8 @@ layout: null
     {"number": "AB-730", "title": "Transform business workflows with generative AI", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/mod-table.html"},
     {"number": "AB-731", "title": "Drive AI transformation in your organization", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/mod-table.html"},
     {"number": "AB-900", "title": "Introduction to M365 and AI admin", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/mod-table.html"},
+    {"number": "AB-620", "title": "Design and build integrated AI agent solutions in Copilot Studio", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/mod-table.html"},
+    {"number": "AB-6008", "title": "Delegate work with AI", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/mod-table.html"},
     {"number": "AI-901", "title": "Introduction to AI in Azure", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
     {"number": "AI-103", "title": "Azure AI App and Agent Developer", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ai-table.html"},
     {"number": "AI-300", "title": "Operationalize machine learning and generative AI solutions", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/ml-table.html"},
