@@ -58,6 +58,7 @@ layout: null
     {"number": "GH-200", "title": "Automate your workflow with GitHub Actions", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
     {"number": "GH-300", "title": "GitHub Copilot Fundamentals", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
     {"number": "GH-500", "title": "GitHub Advanced Security", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
+    {"number": "GH-600", "title": "Developing in Agentic AI Systems", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
     {"number": "GH-900", "title": "GitHub Foundations", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/gh-table.html"},
     {"number": "MD-4011", "title": "Enhance endpoint security with Intune and Copilot for Security", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/security-table.html"},
     {"number": "MS-4002", "title": "Prepare security and compliance to support Microsoft 365 Copilot", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/copilot-table.html"},
