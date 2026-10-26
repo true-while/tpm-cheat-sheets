@@ -10,46 +10,46 @@ Check out other Data Platform related classes [`DP-604`](../docs/ml-table.html?c
 
 
 ```table
-|**Course**| _DP-601_ | _DP-602_ | _DP-603_ | _DP-605_|
-| --- | --- | --- | --- | --- |
-|**Title**|Implement a Lakehouse with Microsoft Fabric|Implement a data warehouse with Microsoft Fabric|Implement Real-Time Intelligence with Microsoft Fabric|Develop reports with Microsoft Power BI|
-|**Desc**|Focused on essential techniques for efficient data engineering & Analytics, versioning, and reliability by working with Delta Lake tables.|Focuses on several key areas including creating, querying, and exploring a Fabric data warehouse, as well as data ingestion.|Focuses on event processing and real-time dashboard|Focuses on data wrangling, modeling, report authoring and deployment, and row and object-level security.|
-|**Duration**|1 Day|1 Day|1 Day|1 Day|
-|**Audience**| Data Engineers | Data Engineers | Data Engineers, Monitoring | Data Analysts | 
-|**Soft Pre-req**| Fabric, ADLS, Python | Warehouse, Analytical SQL. | Data streaming, KQL | Analytics over reports. | 
-|**Pre-requisites**| PL-900, DP-900| DP-900, DP-080| PL-900, DP-900 | PL-900, DP-900, DP-080|
-|**Intersect classes**|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|[DP-700](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/)|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|
-| **Agenda** | [7 Modules](https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/) | [4 Modules](https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/)|[7 Modules](https://learn.microsoft.com/en-us/training/paths/develop-dynamic-reports-microsoft-power-bi/)|
-|**Labs**|[6 Labs](https://microsoftlearning.github.io/mslearn-fabric/)|[5 Labs](https://microsoftlearning.github.io/mslearn-fabric/)|[4 Labs](https://microsoftlearning.github.io/mslearn-fabric/)|[4 Labs](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/)|
-|**Assessment**| [Yes](https://learn.microsoft.com/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)| [Yes](https://learn.microsoft.com/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/)| [Yes](https://learn.microsoft.com/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/)| No |
-| **Updated** |  |  | | 10/3/2025 | 
-| **Type** | Frontier | Frontier | Frontier | Frontier |
+|**Course**| _DP-601_ | _DP-602_ | _DP-603_ | _DP-605_| _DP-3029_|
+| --- | --- | --- | --- | --- | --- |
+|**Title**|Implement a Lakehouse with Microsoft Fabric|Implement a data warehouse with Microsoft Fabric|Implement Real-Time Intelligence with Microsoft Fabric|Develop reports with Microsoft Power BI|Work smarter with Copilot in Microsoft Fabric|
+|**Desc**|Focused on essential techniques for efficient data engineering & Analytics, versioning, and reliability by working with Delta Lake tables.|Focuses on several key areas including creating, querying, and exploring a Fabric data warehouse, as well as data ingestion.|Focuses on event processing and real-time dashboard|Focuses on data wrangling, modeling, report authoring and deployment, and row and object-level security.|Teaches how to use Copilot in MS Fabric to streamline data engineering tasks and workflows. Helps gain hands-on experience with Copilot features that enhance productivity and simplify working with data in the Fabric platform.|
+|**Duration**|1 Day|1 Day|1 Day|1 Day|1 Day|
+|**Audience**| Data Engineers | Data Engineers | Data Engineers, Monitoring | Data Analysts | AI, Data Engineers | 
+|**Soft Pre-req**| Fabric, ADLS, Python | Warehouse, Analytical SQL. | Data streaming, KQL | Analytics over reports. | Fabric, Python | 
+|**Pre-requisites**| PL-900, DP-900| DP-900, DP-080| PL-900, DP-900 | PL-900, DP-900, DP-080| DP-60X series|
+|**Intersect classes**|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|[DP-700](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/)|[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)|PL-300, DP-700|
+| **Agenda** | [7 Modules](https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/) | [6 Modules](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/) | [4 Modules](https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/)|[7 Modules](https://learn.microsoft.com/en-us/training/paths/develop-dynamic-reports-microsoft-power-bi/)|[6 Modules](https://learn.microsoft.com/en-us/training/courses/dp-3029)|
+|**Labs**|[6 Labs](https://microsoftlearning.github.io/mslearn-fabric/)|[5 Labs](https://microsoftlearning.github.io/mslearn-fabric/)|[4 Labs](https://microsoftlearning.github.io/mslearn-fabric/)|[4 Labs](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/)|[4 Copilot labs](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs)|
+|**Assessment**| [Yes](https://learn.microsoft.com/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)| [Yes](https://learn.microsoft.com/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/)| [Yes](https://learn.microsoft.com/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/)| No | No |
+| **Updated** |  |  | | 10/3/2025 |  | 
+| **Type** | Frontier | Frontier | Frontier | Frontier | Frontier |
 ```alignment
-LCCCC
-LLLLL
-LLLLL
-LLLLL
-LLLLL
-LLLLL
-LLLLL
-LLLLL
-LLLLL
-LLLLL
-LLLLL
-LLLLL
-LLLLL
+LCCCCC
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
+LLLLLL
 ```valign
-TTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
-MTTTT
+TTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
+MTTTTT
 ```

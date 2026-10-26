@@ -16,6 +16,7 @@ layout: default
 | **Intersect classes** | MS‑900 |  |  | AB-731, AI-102 |  | PL-7008 (a few modules) |
 | **Agenda** | [6 mods](https://learn.microsoft.com/en-us/training/courses/ab-900t00) |  [6 mods](https://learn.microsoft.com/en-us/training/courses/ab-730t00) | [3 mods](https://learn.microsoft.com/en-us/training/courses/ab-731t00) | [10 mods](https://learn.microsoft.com/en-us/training/courses/ab-100t00) | [19 mods](https://learn.microsoft.com/en-us/training/courses/ab-620t00)  |[3 mods](https://learn.microsoft.com/en-us/training/paths/delegate-work-with-copilot-cowork/) |
 | **Labs** | Instructor Led |  | Case Study | Case Study | [5 labs](https://github.com/MicrosoftLearning/AB-620T00_build_integrated_ai_agents_in_copilot_studio/tree/main/Instructions/Labs) | [1 Lab](https://github.com/MicrosoftLearning/AB-6008_delegate_work_with_AI/blob/main/Instructions/Labs/01-delegate-work-microsoft-copilot-cowork.md) |
+| **Videos** |  |  |  | [Video](https://aka.ms/AB-100onYouTube) |  |  |
 | **Type** | Frontier | Frontier | Frontier | Frontier | Frontier  | Frontier |
 | **Coments** | | eligible for scale | eligible for scale |  |  | eligible for scale |
 ```alignment
@@ -31,8 +32,10 @@ LLLLLLL
 LLLLLLL
 LLLLLLL
 LLLLLLL
+LLLLLLL
 ```valign
 TTTTTTT
+MTTTTTT
 MTTTTTT
 MTTTTTT
 MTTTTTT

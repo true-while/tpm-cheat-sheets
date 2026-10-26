@@ -20,6 +20,7 @@ Check out other GitHub related class [`AZ-2007`](../docs/dev-table.html?c=AZ-200
 | **Agenda** | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-900t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-100t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-200t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-300t00) | [2 modules](https://learn.microsoft.com/en-us/training/courses/gh-500t00) | [6 modules](https://learn.microsoft.com/en-us/training/courses/gh-600t00) | [5 modules](https://learn.microsoft.com/en-us/training/paths/devops-foundations-core-principles-practices/) | [5 LP](https://learn.microsoft.com/en-us/training/courses/az-400t00) |
 | **Labs** | 8 labs  | 4 labs | 4 labs | 6 labs | 6 exercises from Learn | 3 labs | [4 Labs](https://microsoftlearning.github.io/AZ-2008_DevOps_Foundations_Core_Principles_Practices/) | [12 Labs](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions) |
 | **Updated** | Nov convert to 2 days |  |  |  |  |  | 11/14/2025 |  |
+| **Videos** |  | [Video](https://aka.ms/GH-100onYouTube) |  |  |  |  |  |  |
 | **Type** | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier | Frontier |
 ```alignment
 LCCCCCCCCC
@@ -34,8 +35,10 @@ LLLLLLLLL
 LLLLLLLLL
 LLLLLLLLL
 LLLLLLLLL
+LLLLLLLLL
 ```valign
 TTTTTTTTT
+MTTTTTTT
 MTTTTTTT
 MTTTTTTT
 MTTTTTTT

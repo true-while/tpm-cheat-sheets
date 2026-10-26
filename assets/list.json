@@ -48,7 +48,7 @@ layout: null
     {"number": "DP-3020", "title": "Getting Started with Cosmos DB NoSQL Development", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-r.html"},
     {"number": "DP-3021", "title": "Configure and migrate to Azure Database for PostgreSQL", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-r.html"},
     {"number": "DP-3028", "title": "Implement Generative AI engineering with Azure Databricks", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table-r.html"},
-    {"number": "DP-3029", "title": "Work smarter with Copilot in Microsoft Fabric ", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/dp-table.html"},
+    {"number": "DP-3029", "title": "Work smarter with Copilot in Microsoft Fabric ", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"},,
     {"number": "DP-601", "title": "Implement a Lakehouse with Microsoft Fabric", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"},
     {"number": "DP-602", "title": "Implement a data warehouse with Microsoft Fabric", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"},
     {"number": "DP-603", "title": "Implement Real-Time Intelligence with Microsoft Fabric", "url": "https://true-while.github.io/tpm-cheat-sheets/docs/fbr-table.html"},

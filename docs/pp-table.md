@@ -23,6 +23,7 @@ Check out [`copilot classes`](../docs/copilot-table.html)
 | **Agenda** | [3 learn paths](https://docs.microsoft.com/en-us/learn/certifications/courses/pl-300t00)| [5 Modules](https://learn.microsoft.com/en-us/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/) |
 | **Labs** | [11 Labs](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst) | [9 Labs](https://github.com/MicrosoftLearning/mslearn-copilotstudio) |
 | **Applied Skills** | [Exam](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification) | [App Skills](https://learn.microsoft.com/en-us/credentials/applied-skills/create-agents-in-microsoft-copilot-studio/#applied-skill-take-the-assessment)  |
+| **Videos** |  | [Video](https://aka.ms/PL-7008onYouTube) |
 | **Type** | Classic | Frontier |
 ```alignment
 LCC
@@ -38,8 +39,10 @@ LLL
 LLL
 LLL
 LLL
+LLL
 ```valign
 TTT
+MTT
 MTT
 MTT
 MTT
