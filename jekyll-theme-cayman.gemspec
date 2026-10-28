@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = "tpm-cheatsheets"
+  s.name          = "scm-cheatsheets"
   s.version       = "0.2.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Alex Ivanov"]
   s.email         = ["true-while@github.com"]
   s.homepage      = "https://github.com/true-while"
-  s.summary       = "TPM support pages"
+  s.summary       = "CSM support pages"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)

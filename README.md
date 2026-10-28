@@ -1,6 +1,6 @@
-## TPM Cheat sheets
+## CSM Cheat sheets
 
-The project is established for providing support for TPMs with recommendation of 1-day classes.
+The project is established for providing support for SCMs with recommendation of 1-day and ARB classes.
 
 The web-site contains the updated information about classes and content,labs, pre-requirements and recommendations for learners.
 
